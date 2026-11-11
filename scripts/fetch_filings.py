@@ -29,6 +29,7 @@ TICKERS: dict[str, int] = {
     "AAPL": 320193,
     "NVDA": 1045810,
     "JPM": 19617,
+    "MSFT": 789019,
 }
 FORMS = ("10-K", "10-Q")
 OUT_DIR = Path(__file__).resolve().parent.parent / "data" / "filings"
