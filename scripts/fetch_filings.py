@@ -77,20 +77,33 @@ class _TextExtractor(HTMLParser):
         super().__init__(convert_charrefs=True)
         self.parts: list[str] = []
         self.skip_depth = 0
+        self.in_cell = False  # Inside a table cell, line breaks become spaces.
+
+    def _break(self, tag: str) -> str:
+        if self.in_cell and tag not in {"tr", "table"}:
+            return " "
+        return "\n"
 
     def handle_starttag(self, tag: str, attrs) -> None:
         if tag in self.SKIP:
             self.skip_depth += 1
-        elif tag in self.BLOCK:
-            self.parts.append("\n")
         elif tag in {"td", "th"}:
+            self.in_cell = True
             self.parts.append(" | ")
+        elif tag in self.BLOCK:
+            if tag in {"tr", "table"}:
+                self.in_cell = False
+            self.parts.append(self._break(tag))
 
     def handle_endtag(self, tag: str) -> None:
         if tag in self.SKIP and self.skip_depth:
             self.skip_depth -= 1
+        elif tag in {"td", "th"}:
+            self.in_cell = False
         elif tag in self.BLOCK:
-            self.parts.append("\n")
+            if tag in {"tr", "table"}:
+                self.in_cell = False
+            self.parts.append(self._break(tag))
 
     def handle_data(self, data: str) -> None:
         if not self.skip_depth:
