@@ -107,7 +107,8 @@ class _TextExtractor(HTMLParser):
 
     def handle_data(self, data: str) -> None:
         if not self.skip_depth:
-            self.parts.append(data)
+            # Line breaks in HTML source are spaces; only tags make new lines.
+            self.parts.append(data.replace("\r", " ").replace("\n", " "))
 
 
 def html_to_text(html: str) -> str:
