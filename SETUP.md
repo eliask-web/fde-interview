@@ -10,11 +10,10 @@ Your Claude subscription runs Claude Code and the harness. The prototype itself 
 2. Open Billing and add credits. $10 to $20 covers the dry run and Wednesday.
 3. Open API Keys, create a key named `fde-prototype`, and copy it right away. It is shown only once.
 
-## 2. OpenAI API key (embeddings)
+## 2. Portkey keys and SEC user agent
 
-1. Go to platform.openai.com and sign in.
-2. Open Billing and add $5 to $10 in credits.
-3. Open API keys, create a secret key, and copy it.
+1. Get your Portkey API key and virtual key from your Portkey workspace, and put them in `.env` as `PORTKEY_API_KEY` and `PORTKEY_VIRTUAL_KEY`.
+2. Set `SEC_USER_AGENT` in `.env` to your name and contact email. The SEC requires it for filings downloads.
 
 ## 3. LangSmith key (tracing)
 
@@ -61,7 +60,7 @@ gh repo clone eliask-web/<repo-name>
 cd <repo-name>
 python3.12 -m venv .venv && source .venv/bin/activate
 pip install -r requirements.txt
-cp .env.example .env      # paste your three keys into .env
+cp .env.example .env      # fill in the keys in .env
 python scripts/preflight.py
 ```
 
