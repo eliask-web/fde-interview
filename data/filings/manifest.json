@@ -58,5 +58,25 @@
     "filing_date": "2026-11-03",
     "period": "2026-09-30",
     "url": "https://www.sec.gov/Archives/edgar/data/19617/000162828026069523/jpm-20260930.htm"
+  },
+  {
+    "file": "MSFT_10-K_2026-07-29.txt",
+    "ticker": "MSFT",
+    "title": "MICROSOFT CORP 10-K for period ending 2026-06-30",
+    "company": "MICROSOFT CORP",
+    "form": "10-K",
+    "filing_date": "2026-07-29",
+    "period": "2026-06-30",
+    "url": "https://www.sec.gov/Archives/edgar/data/789019/000119312526323660/msft-20260630.htm"
+  },
+  {
+    "file": "MSFT_10-Q_2026-10-28.txt",
+    "ticker": "MSFT",
+    "title": "MICROSOFT CORP 10-Q for period ending 2026-09-30",
+    "company": "MICROSOFT CORP",
+    "form": "10-Q",
+    "filing_date": "2026-10-28",
+    "period": "2026-09-30",
+    "url": "https://www.sec.gov/Archives/edgar/data/789019/000119312526436133/msft-20260930.htm"
   }
 ]

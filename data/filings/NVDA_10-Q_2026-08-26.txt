@@ -18,8 +18,7 @@ NVIDIA CORPORATION
 | Delaware | 94-3177549
 | (State or other jurisdiction of | (I.R.S. Employer
 | incorporation or organization) | Identification No.)
-2788 San Tomas Expressway, Santa Clara, California
-| 95051
+| 2788 San Tomas Expressway, Santa Clara, California | 95051
 | (Address of principal executive offices) | (Zip Code)
 (408) 486-2000
 (Registrant’s telephone number, including area code)
@@ -40,48 +39,24 @@ Form 10-Q
 For the Quarter Ended July 26, 2026
 Table of Contents
 | Page
-Part I. Financial Information
-Item 1.
-| Financial Statements (Unaudited) |
-| a) Condensed Consolidated Statements of Income for the three and six months ended July 26, 2026 and July 27, 2025 |
-3
-| b) Condensed Consolidated Statements of Comprehensive Income for the three and six months ended July 26, 2026 and July 27, 2025 |
-4
-| c) Condensed Consolidated Balance Sheets as of July 26, 2026 and January 25, 2026 |
-5
-| d) Condensed Consolidated Statements of Shareholders’ Equity for the three and six months ended July 26, 2026 and July 27, 2025 |
-6
-| e) Condensed Consolidated Statements of Cash Flows for the six months ended July 26, 2026 and July 27, 2025 |
-8
-| f) Notes to Condensed Consolidated Financial Statements |
-9
-Item 2.
-| Management’s Discussion and Analysis of Financial Condition and Results of Operations |
-25
-Item 3.
-| Quantitative and Qualitative Disclosures About Market Risk |
-33
-Item 4.
-| Controls and Procedures |
-33
-Part II. Other Information
-Item 1.
-| Legal Proceedings |
-34
-Item 1A.
-| Risk Factors |
-34
-Item 2.
-| Unregistered Sales of Equity Securities and Use of Proceeds |
-39
-Item 5.
-| Other Information |
-40
-Item 6.
-| Exhibits |
-42
-Signature
-43
+| Part I. Financial Information |
+| Item 1. | Financial Statements (Unaudited) |
+| a) Condensed Consolidated Statements of Income for the three and six months ended July 26, 2026 and July 27, 2025 | 3
+| b) Condensed Consolidated Statements of Comprehensive Income for the three and six months ended July 26, 2026 and July 27, 2025 | 4
+| c) Condensed Consolidated Balance Sheets as of July 26, 2026 and January 25, 2026 | 5
+| d) Condensed Consolidated Statements of Shareholders’ Equity for the three and six months ended July 26, 2026 and July 27, 2025 | 6
+| e) Condensed Consolidated Statements of Cash Flows for the six months ended July 26, 2026 and July 27, 2025 | 8
+| f) Notes to Condensed Consolidated Financial Statements | 9
+| Item 2. | Management’s Discussion and Analysis of Financial Condition and Results of Operations | 25
+| Item 3. | Quantitative and Qualitative Disclosures About Market Risk | 33
+| Item 4. | Controls and Procedures | 33
+| Part II. Other Information |
+| Item 1. | Legal Proceedings | 34
+| Item 1A. | Risk Factors | 34
+| Item 2. | Unregistered Sales of Equity Securities and Use of Proceeds | 39
+| Item 5. | Other Information | 40
+| Item 6. | Exhibits | 42
+| Signature | 43
 Where You Can Find More Information
 Investors and others should note that we announce material financial information to our investors using our investor relations website, press releases, SEC filings and public conference calls and webcasts. We also use the following social media channels as a means of disclosing information about the company, our products, our planned financial and other announcements and attendance at upcoming investor and industry conferences, and other matters, and for complying with our disclosure obligations under Regulation FD:
 NVIDIA Corporate Blog (blogs.nvidia.com/)
@@ -171,7 +146,7 @@ Condensed Consolidated Balance Sheets
 | Long-term operating lease liabilities | 4,985 | 2,572 |
 | Other long-term liabilities | 10,918 | 7,306 |
 | Total liabilities | 91,288 | 49,510 |
-Commitments and contingencies
+| Commitments and contingencies |
 | Shareholders’ equity: |
 | Preferred stock | — | — |
 | Common stock | 24 | 24 |
@@ -185,75 +160,53 @@ See accompanying Notes to Condensed Consolidated Financial Statements.
 NVIDIA Corporation and Subsidiaries
 Condensed Consolidated Statements of Shareholders’ Equity
 (Unaudited)
-| Common Stock
-Outstanding | Additional Paid-in Capital | Accumulated Other Comprehensive Income (Loss) | Retained Earnings | Total Shareholders’ Equity
+| Common Stock Outstanding | Additional Paid-in Capital | Accumulated Other Comprehensive Income (Loss) | Retained Earnings | Total Shareholders’ Equity
 | Shares | Amount |
 | (In millions, except per share data) |
-Balances as of Apr 26, 2026
-| 24,221 | $ | 24 | $ | 10,275 | $ | 137 | $ | 185,038 | $ | 195,474 |
+| Balances as of Apr 26, 2026 | 24,221 | $ | 24 | $ | 10,275 | $ | 137 | $ | 185,038 | $ | 195,474 |
 | Net income | — | — | — | — | 59,688 | 59,688 |
 | Other comprehensive loss | — | — | — | (162) | — | (162) |
-Issuance of common stock
-| 32 | — | — | — | — | — |
-Tax withholding related to common stock
-| (12) | — | (2,402) | — | — | (2,402) |
+| Issuance of common stock | 32 | — | — | — | — | — |
+| Tax withholding related to common stock | (12) | — | (2,402) | — | — | (2,402) |
 | Shares repurchased | (94) | — | (152) | — | (19,522) | (19,674) |
-Cash dividends declared and paid ($0.25 per common share)
-| — | — | — | — | (6,047) | (6,047) |
-Fair value of partially vested equity awards assumed in connection with acquisitions
-| — | — | 80 | — | — | 80 |
+| Cash dividends declared and paid ($0.25 per common share) | — | — | — | — | (6,047) | (6,047) |
+| Fair value of partially vested equity awards assumed in connection with acquisitions | — | — | 80 | — | — | 80 |
 | Stock-based compensation | — | — | 2,027 | — | — | 2,027 |
-Balances as of Jul 26, 2026
-| 24,147 | $ | 24 | $ | 9,828 | $ | (25) | $ | 219,157 | $ | 228,984 |
-Balances as of Apr 27, 2025
-| 24,388 | $ | 24 | $ | 11,475 | $ | 186 | $ | 72,158 | $ | 83,843 |
+| Balances as of Jul 26, 2026 | 24,147 | $ | 24 | $ | 9,828 | $ | (25) | $ | 219,157 | $ | 228,984 |
+| Balances as of Apr 27, 2025 | 24,388 | $ | 24 | $ | 11,475 | $ | 186 | $ | 72,158 | $ | 83,843 |
 | Net income | — | — | — | — | 26,422 | 26,422 |
 | Other comprehensive loss | — | — | — | (16) | — | (16) |
-Issuance of common stock
-| 39 | — | — | — | — | — |
-Tax withholding related to common stock
-| (13) | — | (1,848) | — | — | (1,848) |
+| Issuance of common stock | 39 | — | — | — | — | — |
+| Tax withholding related to common stock | (13) | — | (1,848) | — | — | (1,848) |
 | Shares repurchased | (67) | — | (59) | — | (9,599) | (9,658) |
-Cash dividends declared and paid ($0.01 per common share)
-| — | — | — | — | (244) | (244) |
+| Cash dividends declared and paid ($0.01 per common share) | — | — | — | — | (244) | (244) |
 | Stock-based compensation | — | — | 1,632 | — | — | 1,632 |
-Balances as of Jul 27, 2025
-| 24,347 | $ | 24 | $ | 11,200 | $ | 170 | $ | 88,737 | $ | 100,131 |
+| Balances as of Jul 27, 2025 | 24,347 | $ | 24 | $ | 11,200 | $ | 170 | $ | 88,737 | $ | 100,131 |
 See accompanying Notes to Condensed Consolidated Financial Statements.
 6
 NVIDIA Corporation and Subsidiaries
 Condensed Consolidated Statements of Shareholders’ Equity
 (Unaudited)
-| Common Stock
-Outstanding | Additional Paid-in Capital | Accumulated Other Comprehensive Income (Loss) | Retained Earnings | Total Shareholders’ Equity
+| Common Stock Outstanding | Additional Paid-in Capital | Accumulated Other Comprehensive Income (Loss) | Retained Earnings | Total Shareholders’ Equity
 | Shares | Amount |
 | (In millions, except per share data) |
-Balances as of Jan 25, 2026
-| 24,304 | $ | 24 | $ | 10,118 | $ | 178 | $ | 146,973 | $ | 157,293 |
+| Balances as of Jan 25, 2026 | 24,304 | $ | 24 | $ | 10,118 | $ | 178 | $ | 146,973 | $ | 157,293 |
 | Net income | — | — | — | — | 118,010 | 118,010 |
 | Other comprehensive loss | — | — | — | (203) | — | (203) |
-Issuance of common stock
-| 69 | — | 515 | — | — | 515 |
-Tax withholding related to common stock
-| (23) | — | (4,531) | — | — | (4,531) |
+| Issuance of common stock | 69 | — | 515 | — | — | 515 |
+| Tax withholding related to common stock | (23) | — | (4,531) | — | — | (4,531) |
 | Shares repurchased | (203) | — | (309) | — | (39,536) | (39,845) |
-Cash dividends declared and paid ($0.26 per common share)
-| — | — | — | — | (6,290) | (6,290) |
-Fair value of partially vested equity awards assumed in connection with acquisitions
-| — | — | 80 | — | — | 80 |
+| Cash dividends declared and paid ($0.26 per common share) | — | — | — | — | (6,290) | (6,290) |
+| Fair value of partially vested equity awards assumed in connection with acquisitions | — | — | 80 | — | — | 80 |
 | Stock-based compensation | — | — | 3,955 | — | — | 3,955 |
 | Balances as of Jul 26, 2026 | 24,147 | $ | 24 | $ | 9,828 | $ | (25) | $ | 219,157 | $ | 228,984 |
-Balances as of Jan 26, 2025
-| 24,477 | $ | 24 | $ | 11,237 | $ | 28 | $ | 68,038 | $ | 79,327 |
+| Balances as of Jan 26, 2025 | 24,477 | $ | 24 | $ | 11,237 | $ | 28 | $ | 68,038 | $ | 79,327 |
 | Net income | — | — | — | — | 45,197 | 45,197 |
 | Other comprehensive income | — | — | — | 142 | — | 142 |
-Issuance of common stock
-| 89 | — | 370 | — | — | 370 |
-Tax withholding related to common stock
-| (26) | — | (3,380) | — | — | (3,380) |
+| Issuance of common stock | 89 | — | 370 | — | — | 370 |
+| Tax withholding related to common stock | (26) | — | (3,380) | — | — | (3,380) |
 | Shares repurchased | (193) | — | (151) | — | (24,010) | (24,161) |
-Cash dividends declared and paid ($0.02 per common share)
-| — | — | — | — | (488) | (488) |
+| Cash dividends declared and paid ($0.02 per common share) | — | — | — | — | (488) | (488) |
 | Fair value of partially vested equity awards assumed in connection with acquisitions | — | — | 22 | — | — | 22 |
 | Stock-based compensation | — | — | 3,102 | — | — | 3,102 |
 | Balances as of Jul 27, 2025 | 24,347 | $ | 24 | $ | 11,200 | $ | 170 | $ | 88,737 | $ | 100,131 |
@@ -342,13 +295,11 @@ The following is a summary of our equity award transactions under our equity inc
 | RSUs, PSUs and Market-based PSUs Outstanding
 | Number of Shares | Weighted Average Grant-Date Fair Value Per Share
 | (In millions, except per share data)
-Balance as of Jan 25, 2026
-| 189 | $ | 81.51 |
+| Balance as of Jan 25, 2026 | 189 | $ | 81.51 |
 | Granted | 49 | $ | 183.74 |
 | Vested | (63) | $ | 54.60 |
 | Canceled and forfeited | (7) | $ | 102.16 |
-Balance as of Jul 26, 2026
-| 168 | $ | 120.41 |
+| Balance as of Jul 26, 2026 | 168 | $ | 120.41 |
 As of July 26, 2026, aggregate unearned stock-based compensation expense was $19.4 billion, which is expected to be recognized over a weighted average period of 2.6 years for RSUs, PSUs, and market-based PSUs, and 0.9 years for ESPP.
 Note 3 - Net Income Per Share
 The following are the basic and diluted net income per share computations for the periods presented:
@@ -375,15 +326,7 @@ Notes to Condensed Consolidated Financial Statements (Continued)
 Note 4 - Intangible Assets and Goodwill
 The components of our intangible assets are as follows:
 | Jul 26, 2026 | Jan 25, 2026
-| Gross
-Carrying
-Amount | Accumulated
-Amortization | Net Carrying
-Amount | Gross
-Carrying
-Amount | Accumulated
-Amortization | Net Carrying
-Amount
+| Gross Carrying Amount | Accumulated Amortization | Net Carrying Amount | Gross Carrying Amount | Accumulated Amortization | Net Carrying Amount
 | (In millions)
 | Acquisition-related intangible assets | $ | 5,737 | $ | (2,974) | $ | 2,763 | $ | 5,656 | $ | (2,580) | $ | 3,076 |
 | Patents and licensed technology | 557 | (322) | 235 | 528 | (298) | 230 |
@@ -393,8 +336,7 @@ The following table outlines the estimated future amortization expense related t
 | Future Amortization Expense
 | (In millions)
 | Fiscal Year: |
-2027 (the second half of fiscal year 2027)
-| $ | 482 |
+| 2027 (the second half of fiscal year 2027) | $ | 482 |
 | 2028 | 795 |
 | 2029 | 642 |
 | 2030 | 528 |
@@ -410,11 +352,7 @@ Notes to Condensed Consolidated Financial Statements (Continued)
 Cash equivalents and marketable securities including debt and equity securities are measured at fair value using quoted prices in active markets for identical assets (Level 1) or for similar assets or use of other observable inputs (Level 2).
 The following is a summary of cash equivalents and marketable securities:
 | Jul 26, 2026
-| Pricing Category | Cost or Amortized
-Cost | Unrealized
-Gain | Unrealized
-Loss | Estimated
-Fair Value | Reported as
+| Pricing Category | Cost or Amortized Cost | Unrealized Gain | Unrealized Loss | Estimated Fair Value | Reported as
 | Cash Equivalents | Marketable Debt Securities | Marketable Equity Securities | Other Assets
 | (In millions)
 | Debt securities issued by the U.S. Treasury | Level 2 | $ | 45,367 | $ | 8 | $ | (54) | $ | 45,321 | $ | 12,318 | $ | 33,003 | $ | — | $ | — |
@@ -432,11 +370,7 @@ NVIDIA Corporation and Subsidiaries
 Notes to Condensed Consolidated Financial Statements (Continued)
 (Unaudited)
 | Jan 25, 2026
-| Pricing Category | Cost or Amortized
-Cost | Unrealized
-Gain | Unrealized
-Loss | Estimated
-Fair Value | Reported as
+| Pricing Category | Cost or Amortized Cost | Unrealized Gain | Unrealized Loss | Estimated Fair Value | Reported as
 | Cash Equivalents | Marketable Debt Securities | Marketable Equity Securities | Other Assets
 | (In millions)
 | Debt securities issued by the U.S. Treasury | Level 2 | $ | 21,635 | $ | 77 | $ | (3) | $ | 21,709 | $ | — | $ | 21,709 | $ | — | $ | — |
@@ -490,13 +424,10 @@ Property, equipment, and intangible assets acquired but not paid for in the firs
 | Jul 26, 2026 | Jan 25, 2026
 | Accrued and Other Current Liabilities: | (In millions)
 | Customer program accruals | $ | 7,391 | $ | 5,318 |
-Taxes payable
-| 5,206 | 2,669 |
+| Taxes payable | 5,206 | 2,669 |
 | Deferred revenue (1) | 4,616 | 1,379 |
-Product warranty
-| 2,938 | 2,807 |
-Excess inventory purchase obligations (2)
-| 2,138 | 2,739 |
+| Product warranty | 2,938 | 2,807 |
+| Excess inventory purchase obligations (2) | 2,138 | 2,739 |
 | Accrued payroll and related expenses | 1,206 | 1,146 |
 | Accrued purchase consideration (3) | 986 | 3,921 |
 | Other | 2,479 | 1,373 |
@@ -570,42 +501,25 @@ NVIDIA Corporation and Subsidiaries
 Notes to Condensed Consolidated Financial Statements (Continued)
 (Unaudited)
 Note 9 - Debt
-| Expected
-Remaining Term (years) | Effective
-Interest Rate |
+| Expected Remaining Term (years) | Effective Interest Rate |
 | Jul 26, 2026 | Jan 25, 2026
 | (In millions)
-3.20% Notes Due 2026
-| 0.1 | 3.31% | $ | 1,000 | $ | 1,000 |
-4.25% Notes Due 2028
-| 1.9 | 4.39% | 3,500 | — |
-1.55% Notes Due 2028
-| 1.9 | 1.64% | 1,250 | 1,250 |
-4.35% Notes Due 2029
-| 2.9 | 4.45% | 3,500 | — |
-2.85% Notes Due 2030
-| 3.7 | 2.93% | 1,500 | 1,500 |
-4.50% Notes Due 2031
-| 4.9 | 4.60% | 4,000 | — |
-2.00% Notes Due 2031
-| 4.9 | 2.09% | 1,250 | 1,250 |
-4.75% Notes Due 2033
-| 6.9 | 4.82% | 3,500 | — |
-4.95% Notes Due 2036
-| 9.9 | 5.01% | 4,000 | — |
-3.50% Notes Due 2040
-| 13.7 | 3.54% | 1,000 | 1,000 |
-5.55% Notes Due 2046
-| 19.9 | 5.61% | 3,000 | — |
-3.50% Notes Due 2050
-| 23.7 | 3.54% | 2,000 | 2,000 |
-5.625% Notes Due 2056
-| 29.9 | 5.66% | 3,500 | — |
-3.70% Notes Due 2060
-| 33.7 | 3.73% | 500 | 500 |
+| 3.20% Notes Due 2026 | 0.1 | 3.31% | $ | 1,000 | $ | 1,000 |
+| 4.25% Notes Due 2028 | 1.9 | 4.39% | 3,500 | — |
+| 1.55% Notes Due 2028 | 1.9 | 1.64% | 1,250 | 1,250 |
+| 4.35% Notes Due 2029 | 2.9 | 4.45% | 3,500 | — |
+| 2.85% Notes Due 2030 | 3.7 | 2.93% | 1,500 | 1,500 |
+| 4.50% Notes Due 2031 | 4.9 | 4.60% | 4,000 | — |
+| 2.00% Notes Due 2031 | 4.9 | 2.09% | 1,250 | 1,250 |
+| 4.75% Notes Due 2033 | 6.9 | 4.82% | 3,500 | — |
+| 4.95% Notes Due 2036 | 9.9 | 5.01% | 4,000 | — |
+| 3.50% Notes Due 2040 | 13.7 | 3.54% | 1,000 | 1,000 |
+| 5.55% Notes Due 2046 | 19.9 | 5.61% | 3,000 | — |
+| 3.50% Notes Due 2050 | 23.7 | 3.54% | 2,000 | 2,000 |
+| 5.625% Notes Due 2056 | 29.9 | 5.66% | 3,500 | — |
+| 3.70% Notes Due 2060 | 33.7 | 3.73% | 500 | 500 |
 | Unamortized debt discount and issuance costs | (134) | (32) |
-Net carrying amount
-| $ | 33,366 | $ | 8,468 |
+| Net carrying amount | $ | 33,366 | $ | 8,468 |
 | Less short-term portion | (1,000) | (999) |
 | Total long-term portion | $ | 32,366 | $ | 7,469 |
 In June 2026, we issued an aggregate of $25.0 billion of senior unsecured notes across seven tranches for general corporate purposes.
@@ -655,8 +569,7 @@ Land, power, and shell guarantees for AI clouds – We entered into land, power,
 SB Energy Corp. guarantees – In August 2026, we entered into guarantees, capped at a total of $105 billion, to provide credit support on a land, power, and shell buildout with affiliates of SB Energy Corp. (SB Energy) on behalf of a customer, an affiliate of OpenAI Group PBC (OpenAI), related to leases for approximately 4.25 gigawatts of IT load in the aggregate at SB Energy’s PORTS Technology Campus in Pike County, Ohio. Each guarantee generally becomes effective upon commencement of the applicable lease, with corresponding guarantee amounts increasing, as each of the nine phases of data center construction is completed, the first of which is expected in fiscal year 2029. Our payment obligations under the guarantees are triggered upon certain tenant defaults and the amount is expected to decrease over the course of each phase’s 20-year lease term. Our guarantees are limited to defined portions of lease and power payments and not the full cost of the site or all of the tenant’s obligations. The guarantees terminate upon certain events, including OpenAI achieving a satisfactory credit rating or after each respective lease term has completed. In exchange for the guarantees, the site will exclusively host NVIDIA AI infrastructure, subject to limited exceptions. We also hold an option, exercisable in our sole discretion, to provide additional credit support in phases for approximately 3.8 additional gigawatts as the site scales.
 The following table summarizes the maximum gross exposure related to our guarantees, including the SB Energy Corp. guarantees signed in August 2026 (in billions):
 | Land, power, and shell guarantees for AI clouds | $ | 3.5 |
-SB Energy Corp. guarantees
-| 105.0 |
+| SB Energy Corp. guarantees | 105.0 |
 | Total | $ | 108.5 |
 Accrual for Product Warranty Liabilities
 The estimated product returns and product warranty activity consisted of the following:
@@ -707,22 +620,21 @@ Notes to Condensed Consolidated Financial Statements (Continued)
 The Graphics segment includes GeForce GPUs for gaming and PCs, and Quadro/NVIDIA RTX GPUs for enterprise workstation graphics.
 Certain expenses are not allocated to either Compute & Networking or Graphics for purposes of making operating decisions or assessing financial performance. The expenses include stock-based compensation expense, corporate infrastructure and support costs, acquisition-related and other costs, and other non-recurring charges and benefits that our CODM deems to be enterprise in nature.
 Our CODM does not review any information regarding total assets on a reportable segment basis. There are no intersegment transactions. The accounting policies for segment reporting are the same as for our consolidated financial statements. The table below presents details of our reportable segments.
-| Compute & Networking | Graphics |
-Total
+| Compute & Networking | Graphics | Total
 | (In millions)
-Three Months Ended Jul 26, 2026
+| Three Months Ended Jul 26, 2026 |
 | Revenue | $ | 88,299 | $ | 7,922 | $ | 96,221 |
 | Other segment items (1) | 25,603 | 4,023 | 29,626 |
 | Operating income | $ | 62,696 | $ | 3,899 | $ | 66,595 |
-Three Months Ended Jul 27, 2025
+| Three Months Ended Jul 27, 2025 |
 | Revenue | $ | 41,331 | $ | 5,412 | $ | 46,743 |
 | Other segment items (1) | 12,968 | 3,170 | 16,138 |
 | Operating income | $ | 28,363 | $ | 2,242 | $ | 30,605 |
-Six Months Ended Jul 26, 2026
+| Six Months Ended Jul 26, 2026 |
 | Revenue | $ | 162,850 | $ | 14,987 | $ | 177,837 |
 | Other segment items (1) | 46,819 | 8,147 | 54,966 |
 | Operating income | $ | 116,031 | $ | 6,840 | $ | 122,871 |
-Six Months Ended Jul 27, 2025
+| Six Months Ended Jul 27, 2025 |
 | Revenue | $ | 80,920 | $ | 9,885 | $ | 90,805 |
 | Other segment items (1) | 30,503 | 6,003 | 36,506 |
 | Operating income | $ | 50,417 | $ | 3,882 | $ | 54,299 |
@@ -736,22 +648,18 @@ Reconciliation of segment operating income to consolidated income before income 
 | Three Months Ended | Six Months Ended
 | Jul 26, 2026 | Jul 27, 2025 | Jul 26, 2026 | Jul 27, 2025
 | (In millions)
-Segment operating income
-| $ | 66,595 | $ | 30,605 | $ | 122,871 | $ | 54,299 |
+| Segment operating income | $ | 66,595 | $ | 30,605 | $ | 122,871 | $ | 54,299 |
 | Stock-based compensation expense | (2,027) | (1,624) | (3,954) | (3,099) |
-Unallocated operating expenses
-| (612) | (440) | (1,178) | (859) |
+| Unallocated operating expenses | (612) | (440) | (1,178) | (859) |
 | Acquisition-related and other costs | (222) | (101) | (469) | (263) |
 | Other income, net | 7,773 | 2,766 | 24,140 | 3,039 |
-Consolidated income before income tax
-| $ | 71,507 | $ | 31,206 | $ | 141,410 | $ | 53,117 |
+| Consolidated income before income tax | $ | 71,507 | $ | 31,206 | $ | 141,410 | $ | 53,117 |
 Revenue by geographic region is designated based on the location of the headquarters of direct customers. The end customer and shipping location may be different from our direct customers’ headquarters location.
 | Three Months Ended | Six Months Ended
 | Jul 26, 2026 | Jul 27, 2025 | Jul 26, 2026 | Jul 27, 2025
 | (In millions)
 | Geographic Revenue based upon Customer Headquarters Location: |
-United States
-| $ | 60,074 | $ | 32,897 | $ | 123,843 | $ | 58,582 |
+| United States | $ | 60,074 | $ | 32,897 | $ | 123,843 | $ | 58,582 |
 | Taiwan | 26,985 | 8,902 | 38,991 | 16,550 |
 | China (including Hong Kong) | 7,880 | 3,985 | 12,430 | 13,644 |
 | Other | 1,282 | 959 | 2,573 | 2,029 |
@@ -881,11 +789,7 @@ The following table sets forth, for the periods indicated, certain items in our 
 Revenue and Reportable Segments
 Revenue by Reportable Segments
 | Three Months Ended | Six Months Ended
-| Jul 26, 2026 | Jul 27, 2025 | $
-Change | %
-Change | Jul 26, 2026 | Jul 27, 2025 | $
-Change | %
-Change
+| Jul 26, 2026 | Jul 27, 2025 | $ Change | % Change | Jul 26, 2026 | Jul 27, 2025 | $ Change | % Change
 | ($ in millions)
 | Compute & Networking | $ | 88,299 | $ | 41,331 | $ | 46,968 | 114 | % | $ | 162,850 | $ | 80,920 | $ | 81,930 | 101 | %
 | Graphics | 7,922 | 5,412 | 2,510 | 46 | % | 14,987 | 9,885 | 5,102 | 52 | %
@@ -893,11 +797,7 @@ Change
 28
 Operating Income by Reportable Segments
 | Three Months Ended | Six Months Ended
-| Jul 26, 2026 | Jul 27, 2025 | $
-Change | %
-Change | Jul 26, 2026 | Jul 27, 2025 | $
-Change | %
-Change
+| Jul 26, 2026 | Jul 27, 2025 | $ Change | % Change | Jul 26, 2026 | Jul 27, 2025 | $ Change | % Change
 | ($ in millions)
 | Compute & Networking | $ | 62,696 | $ | 28,363 | $ | 34,333 | 121 | % | $ | 116,031 | $ | 50,417 | $ | 65,614 | 130 | %
 | Graphics | 3,899 | 2,242 | 1,657 | 74 | % | 6,840 | 3,882 | 2,958 | 76 | %
@@ -920,11 +820,7 @@ Provisions for inventory and excess inventory purchase obligations totaled $985 
 Provisions for inventory and excess inventory purchase obligations totaled $1.0 billion and $6.3 billion for the second quarter and first half of fiscal year 2026, respectively, including $4.5 billion associated with H20 excess inventory and purchase obligations for the first quarter of fiscal year 2026. Sales of previously reserved inventory and settlements of excess inventory purchase obligations resulted in a provision release of $501 million and $937 million for the second quarter and first half of fiscal year 2026, respectively. The net effect on our gross margin was an unfavorable impact of 1.1% and 5.9% in the second quarter and first half of fiscal year 2026, respectively.
 Operating Expenses
 | Three Months Ended | Six Months Ended
-| Jul 26, 2026 | Jul 27, 2025 | $
-Change | %
-Change | Jul 26, 2026 | Jul 27, 2025 | $
-Change | %
-Change
+| Jul 26, 2026 | Jul 27, 2025 | $ Change | % Change | Jul 26, 2026 | Jul 27, 2025 | $ Change | % Change
 | ($ in millions)
 | Research and development | $ | 7,054 | $ | 4,291 | $ | 2,763 | 64 | % | $ | 13,375 | $ | 8,280 | $ | 5,095 | 62 | %
 | Sales, general and administrative | 1,354 | 1,122 | 232 | 21 | % | 2,654 | 2,163 | 491 | 23 | %
@@ -988,8 +884,7 @@ Our aggregate debt maturities as of July 26, 2026, by year payable, were as foll
 | Due in greater than ten years | 10,000 |
 | Unamortized debt discount and issuance costs | (134) |
 | Net carrying amount | $ | 33,366 |
-Less short-term portion
-| 1,000 |
+| Less short-term portion | 1,000 |
 | Total long-term portion | $ | 32,366 |
 We have a commercial paper program to support general corporate purposes, pursuant to which we may issue unsecured paper notes, from time to time or all at once, up to $25.0 billion. As of July 26, 2026, no commercial paper was outstanding.
 Refer to Note 9 of the Notes to Condensed Consolidated Financial Statements in Part I, Item 1 of this Quarterly Report on Form 10-Q for further discussion.
@@ -1087,11 +982,7 @@ On May 18, 2026, our Board of Directors approved an additional $80.0 billion in 
 We paid cash dividends to our shareholders of $6.0 billion and $6.3 billion during the second quarter and first half of fiscal year 2027, respectively. On May 18, 2026, we increased our quarterly cash dividend from $0.01 per share to $0.25 per share.
 The payment of future cash dividends is subject to our Board of Directors’ continuing determination that the declaration of dividends is in the best interests of our shareholders.
 The following table presents details of our share repurchase transactions during the second quarter of fiscal year 2027:
-| Period | Total Number
-of Shares Purchased
-(In millions) | Average Price Paid per Share (1) | Total Number of Shares Purchased as Part of Publicly Announced Program
-(In millions) | Approximate Dollar Value of Shares that May Yet Be Purchased Under the Program
-(In billions)
+| Period | Total Number of Shares Purchased (In millions) | Average Price Paid per Share (1) | Total Number of Shares Purchased as Part of Publicly Announced Program (In millions) | Approximate Dollar Value of Shares that May Yet Be Purchased Under the Program (In billions)
 | April 27, 2026 - May 24, 2026 | 28.7 | $ | 214.32 | 28.7 | $ | 112.7 |
 | May 25, 2026 - June 21, 2026 | 7.2 | $ | 211.29 | 7.2 | $ | 111.1 |
 | June 22, 2026 - July 26, 2026 | 58.5 | $ | 202.40 | 58.5 | $ | 99.3 |
@@ -1107,55 +998,28 @@ Item 5. Other Information
 The following members of our Board of Directors and/or officers adopted, modified, or terminated a trading arrangement that is intended to satisfy the affirmative defense conditions of Rule 10b5-1(c), or a Rule 10b5-1 Trading Arrangement:
 | Name | Title of Director or Officer | Action | Date | Total Shares of Common Stock to be Sold | Expiration Date
 | Aarti Shah | Director | Adoption | 5/22/2026 | 6,500 | 5/29/2027
-| Timothy S. Teter | Executive Vice President, General Counsel and Secretary | Adoption | 5/22/2026 |
-547,942 and any future equity awards*
-| 12/13/2027
-| Colette M. Kress | Executive Vice President and Chief Financial Officer | Adoption | 6/16/2026 |
-375,439**
-| 12/14/2027
+| Timothy S. Teter | Executive Vice President, General Counsel and Secretary | Adoption | 5/22/2026 | 547,942 and any future equity awards* | 12/13/2027
+| Colette M. Kress | Executive Vice President and Chief Financial Officer | Adoption | 6/16/2026 | 375,439** | 12/14/2027
 * Includes 367,942 shares from future vests of equity awards, assuming the maximum number of shares issuable under performance-based equity awards where performance is yet to be certified, as well as shares from vests of any future equity grants awarded during the term of the plan. The actual number of shares to be sold will be net of shares withheld by the Company for taxes.
 40
 ** Represents shares from future vests of equity awards, assuming the maximum number of shares issuable under performance-based equity awards where performance is yet to be certified. The actual number of shares to be sold will be net of shares withheld by the Company for taxes.
 41
 Item 6. Exhibits
 | Incorporated by Reference |
-| Exhibit No. |
-Exhibit Description
-| Schedule/Form | Exhibit | Filing Date
-| 4.1 |
-Officers’ Certificate, dated as of June 18, 2026.
-| 8-K | 4.2 | 6/18/2026
-| 4.2 |
-Form of 2028 Note
-| 8-K | Annex A to Exhibit 4.2 | 6/18/2026
-| 4.3 |
-Form of 2029 Note
-| 8-K | Annex B to Exhibit 4.2 | 6/18/2026
-| 4.4 |
-Form of 2031 Note
-| 8-K | Annex C to Exhibit 4.2 | 6/18/2026
-| 4.5 |
-Form of 2033 Note
-| 8-K | Annex D to Exhibit 4.2 | 6/18/2026
-| 4.6 |
-Form of 2036 Note
-| 8-K | Annex E to Exhibit 4.2 | 6/18/2026
-| 4.7 |
-Form of 2046 Note
-| 8-K | Annex F to Exhibit 4.2 | 6/18/2026
-| 4.8 |
-Form of 2056 Note
-| 8-K | Annex G to Exhibit 4.2 | 6/18/2026
-| 10.1*^ |
-Form of Residual Value Guaranty
-| 31.1* |
-Certification of Chief Executive Officer as required by Rule 13a-14(a) of the Securities Exchange Act of 1934
-| 31.2* |
-Certification of Chief Financial Officer as required by Rule 13a-14(a) of the Securities Exchange Act of 1934
-| 32.1#* |
-Certification of Chief Executive Officer as required by Rule 13a-14(b) of the Securities Exchange Act of 1934
-| 32.2#* |
-Certification of Chief Financial Officer as required by Rule 13a-14(b) of the Securities Exchange Act of 1934
+| Exhibit No. | Exhibit Description | Schedule/Form | Exhibit | Filing Date
+| 4.1 | Officers’ Certificate, dated as of June 18, 2026. | 8-K | 4.2 | 6/18/2026
+| 4.2 | Form of 2028 Note | 8-K | Annex A to Exhibit 4.2 | 6/18/2026
+| 4.3 | Form of 2029 Note | 8-K | Annex B to Exhibit 4.2 | 6/18/2026
+| 4.4 | Form of 2031 Note | 8-K | Annex C to Exhibit 4.2 | 6/18/2026
+| 4.5 | Form of 2033 Note | 8-K | Annex D to Exhibit 4.2 | 6/18/2026
+| 4.6 | Form of 2036 Note | 8-K | Annex E to Exhibit 4.2 | 6/18/2026
+| 4.7 | Form of 2046 Note | 8-K | Annex F to Exhibit 4.2 | 6/18/2026
+| 4.8 | Form of 2056 Note | 8-K | Annex G to Exhibit 4.2 | 6/18/2026
+| 10.1*^ | Form of Residual Value Guaranty |
+| 31.1* | Certification of Chief Executive Officer as required by Rule 13a-14(a) of the Securities Exchange Act of 1934 |
+| 31.2* | Certification of Chief Financial Officer as required by Rule 13a-14(a) of the Securities Exchange Act of 1934 |
+| 32.1#* | Certification of Chief Executive Officer as required by Rule 13a-14(b) of the Securities Exchange Act of 1934 |
+| 32.2#* | Certification of Chief Financial Officer as required by Rule 13a-14(b) of the Securities Exchange Act of 1934 |
 | 101.INS* | Inline XBRL Instance Document - the instance document does not appear in the Interactive Data File because its XBRL tags are embedded within the Inline XBRL document. |
 | 101.SCH* | Inline XBRL Taxonomy Extension Schema Document |
 | 101.CAL* | Inline XBRL Taxonomy Extension Calculation Linkbase Document |

@@ -18,20 +18,16 @@ Commission File Number: 001-36743
 Apple Inc.
 (Exact name of Registrant as specified in its charter)
 | California | 94-2404110
-(State or other jurisdiction
-of incorporation or organization)
-| (I.R.S. Employer Identification No.)
+| (State or other jurisdiction of incorporation or organization) | (I.R.S. Employer Identification No.)
 | One Apple Park Way |
 | MS 927-4GC |
-Cupertino, California
-| 95014
+| Cupertino, California | 95014
 | (Address of principal executive offices) | (Zip Code)
 (408) 996-1010
 (Registrant’s telephone number, including area code)
 Securities registered pursuant to Section 12(b) of the Act:
 | Title of each class | Trading symbol(s) | Name of each exchange on which registered
-Common Stock, $0.00001 par value per share
-| AAPL | The Nasdaq Stock Market LLC
+| Common Stock, $0.00001 par value per share | AAPL | The Nasdaq Stock Market LLC
 | 1.625% Notes due 2026 | — | The Nasdaq Stock Market LLC
 | 2.000% Notes due 2027 | — | The Nasdaq Stock Market LLC
 | 1.375% Notes due 2029 | — | The Nasdaq Stock Market LLC
@@ -66,79 +62,33 @@ Form 10-K
 For the Fiscal Year Ended September 26, 2026
 TABLE OF CONTENTS
 | Page
-Part I
-Item 1.
-Business
-1
-Item 1A.
-Risk Factors
-5
-Item 1B.
-Unresolved Staff Comments
-20
-Item 1C.
-Cybersecurity
-20
-Item 2.
-Properties
-20
-Item 3.
-Legal Proceedings
-20
-Item 4.
-Mine Safety Disclosures
-21
-Part II
-Item 5.
-Market for Registrant’s Common Equity, Related Stockholder Matters and Issuer Purchases of Equity Securities
-22
-Item 6.
-[Reserved]
-23
-Item 7.
-Management’s Discussion and Analysis of Financial Condition and Results of Operations
-24
-Item 7A.
-Quantitative and Qualitative Disclosures About Market Risk
-30
-Item 8.
-Financial Statements and Supplementary Data
-31
-Item 9.
-Changes in and Disagreements with Accountants on Accounting and Financial Disclosure
-57
-Item 9A.
-Controls and Procedures
-57
-Item 9B.
-Other Information
-58
-Item 9C.
-Disclosure Regarding Foreign Jurisdictions that Prevent Inspections
-58
-Part III
-Item 10.
-Directors, Executive Officers and Corporate Governance
-58
-Item 11.
-Executive Compensation
-58
-Item 12.
-Security Ownership of Certain Beneficial Owners and Management and Related Stockholder Matters
-58
-Item 13.
-Certain Relationships and Related Transactions, and Director Independence
-58
-Item 14.
-Principal Accountant Fees and Services
-58
-Part IV
-Item 15.
-Exhibit and Financial Statement Schedules
-59
-Item 16.
-Form 10-K Summary
-62
+| Part I
+| Item 1. | Business | 1
+| Item 1A. | Risk Factors | 5
+| Item 1B. | Unresolved Staff Comments | 20
+| Item 1C. | Cybersecurity | 20
+| Item 2. | Properties | 20
+| Item 3. | Legal Proceedings | 20
+| Item 4. | Mine Safety Disclosures | 21
+| Part II
+| Item 5. | Market for Registrant’s Common Equity, Related Stockholder Matters and Issuer Purchases of Equity Securities | 22
+| Item 6. | [Reserved] | 23
+| Item 7. | Management’s Discussion and Analysis of Financial Condition and Results of Operations | 24
+| Item 7A. | Quantitative and Qualitative Disclosures About Market Risk | 30
+| Item 8. | Financial Statements and Supplementary Data | 31
+| Item 9. | Changes in and Disagreements with Accountants on Accounting and Financial Disclosure | 57
+| Item 9A. | Controls and Procedures | 57
+| Item 9B. | Other Information | 58
+| Item 9C. | Disclosure Regarding Foreign Jurisdictions that Prevent Inspections | 58
+| Part III
+| Item 10. | Directors, Executive Officers and Corporate Governance | 58
+| Item 11. | Executive Compensation | 58
+| Item 12. | Security Ownership of Certain Beneficial Owners and Management and Related Stockholder Matters | 58
+| Item 13. | Certain Relationships and Related Transactions, and Director Independence | 58
+| Item 14. | Principal Accountant Fees and Services | 58
+| Part IV
+| Item 15. | Exhibit and Financial Statement Schedules | 59
+| Item 16. | Form 10-K Summary | 62
 This Annual Report on Form 10-K (“Form 10-K”) contains forward-looking statements, within the meaning of the Private Securities Litigation Reform Act of 1995, that involve risks and uncertainties. Many of the forward-looking statements are located in Part I, Item 1 of this Form 10-K under the heading “Business” and Part II, Item 7 of this Form 10-K under the heading “Management’s Discussion and Analysis of Financial Condition and Results of Operations.” Forward-looking statements provide current expectations of future events based on certain assumptions and include any statement that does not directly relate to any historical or current fact. For example, statements in this Form 10-K regarding the potential future impact of macroeconomic conditions and tariffs and other measures on the Company’s business, results of operations and financial condition are forward-looking statements. Forward-looking statements can also be identified by words such as “future,” “anticipates,” “believes,” “estimates,” “expects,” “intends,” “plans,” “predicts,” “will,” “would,” “could,” “can,” “may,” and similar terms. Forward-looking statements are not guarantees of future performance and the Company’s actual results may differ significantly from the results discussed in the forward-looking statements. Factors that might cause such differences include, but are not limited to, those discussed in Part I, Item 1A of this Form 10-K under the heading “Risk Factors.” The Company assumes no obligation to revise or update any forward-looking statements for any reason, except as required by law.
 Unless otherwise stated, all information presented herein is based on the Company’s fiscal calendar, and references to particular years, quarters, months or periods refer to the Company’s fiscal years ended in September and the associated quarters, months and periods of those fiscal years. Each of the terms the “Company” and “Apple” as used herein refers collectively to Apple Inc. and its wholly owned subsidiaries, unless otherwise stated.
 PART I
@@ -367,21 +317,11 @@ Holders
 As of October 23, 2026, there were 21,458 shareholders of record.
 Purchases of Equity Securities by the Issuer and Affiliated Purchasers
 Share repurchase activity during the three months ended September 26, 2026, was as follows (in millions, except number of shares, which are reflected in thousands, and per-share amounts):
-| Periods | Total Number
-of Shares Purchased | Average Price
-Paid Per Share | Total Number of Shares
-Purchased as Part of Publicly
-Announced Plans or Programs |
-Approximate Dollar Value of
-Shares That May Yet Be Purchased
-Under the Plans or Programs (1)
+| Periods | Total Number of Shares Purchased | Average Price Paid Per Share | Total Number of Shares Purchased as Part of Publicly Announced Plans or Programs | Approximate Dollar Value of Shares That May Yet Be Purchased Under the Plans or Programs (1)
 | June 28, 2026 to August 1, 2026: |
 | Open market and privately negotiated purchases | 27,594 | $ | 317.45 | 27,594 |
 | August 2, 2026 to August 29, 2026: |
-May 2026 ASRs (2)
-| 6,288 | $ | 305.29 |
-(2)
-| 6,288 |
+| May 2026 ASRs (2) | 6,288 | $ | 305.29 | (2) | 6,288 |
 | Open market and privately negotiated purchases | 26,820 | $ | 309.66 | 26,820 |
 | August 30, 2026 to September 26, 2026: |
 | Open market and privately negotiated purchases | 21,065 | $ | 329.22 | 21,065 |
@@ -394,8 +334,7 @@ The following graph shows a comparison of five-year cumulative total shareholder
 | September 2021 | September 2022 | September 2023 | September 2024 | September 2025 | September 2026
 | Apple Inc. | $ | 100 | $ | 103 | $ | 118 | $ | 158 | $ | 178 | $ | 238 |
 | S&P 500 Index | $ | 100 | $ | 84 | $ | 99 | $ | 135 | $ | 158 | $ | 187 |
-Dow Jones U.S. Technology Total Stock Market Index
-| $ | 100 | $ | 72 | $ | 100 | $ | 149 | $ | 195 | $ | 256 |
+| Dow Jones U.S. Technology Total Stock Market Index | $ | 100 | $ | 72 | $ | 100 | $ | 149 | $ | 195 | $ | 256 |
 Item 6. [Reserved]
 Apple Inc. | 2026 Form 10-K | 23
 Item 7. Management’s Discussion and Analysis of Financial Condition and Results of Operations
@@ -452,8 +391,7 @@ The following table shows net sales by category for 2026, 2025 and 2024 (dollars
 | Mac | 37,929 | 13 | % | 33,708 | 12 | % | 29,984 |
 | iPad | 27,929 | — | % | 28,023 | 5 | % | 26,694 |
 | Wearables, Home and Accessories | 35,577 | — | % | 35,686 | (4) | % | 37,005 |
-Services (1)
-| 123,301 | 13 | % | 109,158 | 14 | % | 96,169 |
+| Services (1) | 123,301 | 13 | % | 109,158 | 14 | % | 96,169 |
 | Total net sales | $ | 478,834 | 15 | % | $ | 416,161 | 6 | % | $ | 391,035 |
 (1)Services net sales include amortization of the deferred value of services bundled in the sales price of certain products.
 iPhone
@@ -537,47 +475,29 @@ The Company is exposed to economic risk from interest rates and foreign exchange
 Interest Rate Risk
 The Company is primarily exposed to fluctuations in U.S. interest rates and their impact on the Company’s investment portfolio and term debt. Increases in interest rates will negatively affect the fair value of the Company’s investment portfolio and increase the interest expense on the Company’s term debt. To protect against interest rate risk, the Company may use derivative instruments, offset interest rate–sensitive assets and liabilities, or control duration of the investment and term debt portfolios.
 The following table sets forth potential impacts on the Company’s investment portfolio and term debt, including the effects of any associated derivatives, that would result from a hypothetical increase in relevant interest rates as of September 26, 2026 and September 27, 2025 (dollars in millions):
-Interest Rate
-Sensitive Instrument
-Hypothetical Interest
-Rate Increase
-Potential Impact
-| 2026 | 2025
-| Investment portfolio | 100 basis points, all tenors |
-Decline in fair value
-| $ | 2,608 | $ | 2,416 |
-Term debt
-| 100 basis points, all tenors | Increase in annual interest expense | $ | 95 | $ | 129 |
+| Interest Rate Sensitive Instrument | Hypothetical Interest Rate Increase | Potential Impact | 2026 | 2025
+| Investment portfolio | 100 basis points, all tenors | Decline in fair value | $ | 2,608 | $ | 2,416 |
+| Term debt | 100 basis points, all tenors | Increase in annual interest expense | $ | 95 | $ | 129 |
 Foreign Exchange Rate Risk
 The Company’s exposure to foreign exchange rate risk relates primarily to the Company being a net receiver of currencies other than the U.S. dollar. Changes in exchange rates, and in particular a strengthening of the U.S. dollar, will negatively affect the Company’s net sales and gross margins as expressed in U.S. dollars. Fluctuations in exchange rates may also affect the fair values of certain of the Company’s assets and liabilities. To protect against foreign exchange rate risk, the Company may use derivative instruments, offset exposures, or adjust local currency pricing of its products and services. However, the Company may choose to not hedge certain foreign currency exposures for a variety of reasons, including accounting considerations or prohibitive cost.
 The Company applied a value-at-risk (“VAR”) model to its foreign currency derivative positions to assess the potential impact of fluctuations in exchange rates. The VAR model used a Monte Carlo simulation. The VAR is the maximum expected loss in fair value, for a given confidence interval, to the Company’s foreign currency derivative positions due to adverse movements in rates. Based on the results of the model, the Company estimates, with 95% confidence, a maximum one-day loss in fair value of $560 million and $590 million as of September 26, 2026 and September 27, 2025, respectively. Changes in the Company’s underlying foreign currency exposures, which were excluded from the assessment, generally offset changes in the fair values of the Company’s foreign currency derivatives.
 Apple Inc. | 2026 Form 10-K | 30
 Item 8. Financial Statements and Supplementary Data
 | Index to Consolidated Financial Statements | Page
-Consolidated Statements of Operations for the years ended September 26, 2026, September 27, 2025 and September 28, 2024
-32
-Consolidated Statements of Comprehensive Income for the years ended September 26, 2026, September 27, 2025 and September 28, 2024
-33
-Consolidated Balance Sheets as of September 26, 2026 and September 27, 2025
-34
-Consolidated Statements of Shareholders’ Equity for the years ended September 26, 2026, September 27, 2025 and September 28, 2024
-35
-Consolidated Statements of Cash Flows for the years ended September 26, 2026, September 27, 2025 and September 28, 2024
-36
-Notes to Consolidated Financial Statements
-37
-Reports of Independent Registered Public Accounting Firm
-54
+| Consolidated Statements of Operations for the years ended September 26, 2026, September 27, 2025 and September 28, 2024 | 32
+| Consolidated Statements of Comprehensive Income for the years ended September 26, 2026, September 27, 2025 and September 28, 2024 | 33
+| Consolidated Balance Sheets as of September 26, 2026 and September 27, 2025 | 34
+| Consolidated Statements of Shareholders’ Equity for the years ended September 26, 2026, September 27, 2025 and September 28, 2024 | 35
+| Consolidated Statements of Cash Flows for the years ended September 26, 2026, September 27, 2025 and September 28, 2024 | 36
+| Notes to Consolidated Financial Statements | 37
+| Reports of Independent Registered Public Accounting Firm | 54
 All financial statement schedules have been omitted, since the required information is not applicable or is not present in amounts sufficient to require submission of the schedule, or because the information required is included in the consolidated financial statements and accompanying notes.
 Apple Inc. | 2026 Form 10-K | 31
 Apple Inc.
 CONSOLIDATED STATEMENTS OF OPERATIONS
 (In millions, except number of shares, which are reflected in thousands, and per-share amounts)
 | Years Ended
-| September 26,
-2026 | September 27,
-2025 | September 28,
-2024
+| September 26, 2026 | September 27, 2025 | September 28, 2024
 | Net sales: |
 | Products | $ | 355,533 | $ | 307,003 | $ | 294,866 |
 | Services | 123,301 | 109,158 | 96,169 |
@@ -608,10 +528,7 @@ Apple Inc.
 CONSOLIDATED STATEMENTS OF COMPREHENSIVE INCOME
 (In millions)
 | Years Ended
-| September 26,
-2026 | September 27,
-2025 | September 28,
-2024
+| September 26, 2026 | September 27, 2025 | September 28, 2024
 | Net income | $ | 132,175 | $ | 112,010 | $ | 93,736 |
 | Other comprehensive income/(loss): |
 | Change in foreign currency translation, net of tax | 12 | (267) | 395 |
@@ -630,9 +547,7 @@ Apple Inc. | 2026 Form 10-K | 33
 Apple Inc.
 CONSOLIDATED BALANCE SHEETS
 (In millions, except number of shares, which are reflected in thousands, and par value)
-| September 26,
-2026 | September 27,
-2025
+| September 26, 2026 | September 27, 2025
 | ASSETS:
 | Current assets: |
 | Cash and cash equivalents | $ | 36,305 | $ | 35,934 |
@@ -664,8 +579,7 @@ CONSOLIDATED BALANCE SHEETS
 | Total liabilities | 292,455 | 285,508 |
 | Commitments and contingencies |
 | Shareholders’ equity: |
-Common stock and additional paid-in capital, $0.00001 par value: 50,400,000 shares authorized; 14,532,259 and 14,773,260 shares issued and outstanding, respectively
-| 104,815 | 93,568 |
+| Common stock and additional paid-in capital, $0.00001 par value: 50,400,000 shares authorized; 14,532,259 and 14,773,260 shares issued and outstanding, respectively | 104,815 | 93,568 |
 | Retained earnings/(Accumulated deficit) | 13,700 | (14,264) |
 | Accumulated other comprehensive loss | (6,422) | (5,571) |
 | Total shareholders’ equity | 112,093 | 73,733 |
@@ -676,10 +590,7 @@ Apple Inc.
 CONSOLIDATED STATEMENTS OF SHAREHOLDERS’ EQUITY
 (In millions, except per-share amounts)
 | Years Ended
-| September 26,
-2026 | September 27,
-2025 | September 28,
-2024
+| September 26, 2026 | September 27, 2025 | September 28, 2024
 | Total shareholders’ equity, beginning balances | $ | 73,733 | $ | 56,950 | $ | 62,146 |
 | Common stock and additional paid-in capital: |
 | Beginning balances | 93,568 | 83,276 | 73,812 |
@@ -706,10 +617,7 @@ Apple Inc.
 CONSOLIDATED STATEMENTS OF CASH FLOWS
 (In millions)
 | Years Ended
-| September 26,
-2026 | September 27,
-2025 | September 28,
-2024
+| September 26, 2026 | September 27, 2025 | September 28, 2024
 | Cash, cash equivalents, and restricted cash and cash equivalents, beginning balances | $ | 35,934 | $ | 29,943 | $ | 30,737 |
 | Operating activities: |
 | Net income | 132,175 | 112,010 | 93,736 |
@@ -787,16 +695,11 @@ For the sale of third-party products where the Company obtains control of the pr
 Apple Inc. | 2026 Form 10-K | 38
 The following table shows disaggregated net sales, as well as the portion of total net sales that was previously deferred, for 2026, 2025 and 2024 (in millions):
 | 2026 | 2025 | 2024
-iPhone
-| $ | 254,098 | $ | 209,586 | $ | 201,183 |
-Mac
-| 37,929 | 33,708 | 29,984 |
-iPad
-| 27,929 | 28,023 | 26,694 |
-Wearables, Home and Accessories
-| 35,577 | 35,686 | 37,005 |
-Services (1)
-| 123,301 | 109,158 | 96,169 |
+| iPhone | $ | 254,098 | $ | 209,586 | $ | 201,183 |
+| Mac | 37,929 | 33,708 | 29,984 |
+| iPad | 27,929 | 28,023 | 26,694 |
+| Wearables, Home and Accessories | 35,577 | 35,686 | 37,005 |
+| Services (1) | 123,301 | 109,158 | 96,169 |
 | Total net sales | $ | 478,834 | $ | 416,161 | $ | 391,035 |
 | Portion of total net sales that was included in deferred revenue as of the beginning of the period | $ | 8,717 | $ | 8,229 | $ | 7,728 |
 (1)Services net sales include amortization of the deferred value of services bundled in the sales price of certain products.
@@ -818,24 +721,13 @@ Note 4 – Financial Instruments
 Cash, Cash Equivalents and Marketable Securities
 The following tables show the Company’s cash, cash equivalents and marketable securities by significant investment category as of September 26, 2026 and September 27, 2025 (in millions):
 | 2026
-| Adjusted
-Cost | Unrealized
-Gains | Unrealized
-Losses | Fair
-Value | Cash and
-Cash
-Equivalents | Current
-Marketable
-Securities | Non-Current
-Marketable
-Securities
+| Adjusted Cost | Unrealized Gains | Unrealized Losses | Fair Value | Cash and Cash Equivalents | Current Marketable Securities | Non-Current Marketable Securities
 | Cash | $ | 32,686 | $ | — | $ | — | $ | 32,686 | $ | 32,686 | $ | — | $ | — |
 | Level 1: |
 | Money market funds | 897 | — | — | 897 | 897 | — | — |
-Mutual funds
-| 912 | 243 | (4) | 1,151 | — | 1,151 | — |
+| Mutual funds | 912 | 243 | (4) | 1,151 | — | 1,151 | — |
 | Subtotal | 1,809 | 243 | (4) | 2,048 | 897 | 1,151 | — |
-Level 2 (1):
+| Level 2 (1): |
 | U.S. Treasury securities | 19,413 | 1 | (507) | 18,907 | 27 | 4,793 | 14,087 |
 | U.S. agency securities | 5,164 | — | (106) | 5,058 | 565 | 2,459 | 2,034 |
 | Non-U.S. government securities | 5,171 | 25 | (504) | 4,692 | — | 310 | 4,382 |
@@ -844,27 +736,15 @@ Level 2 (1):
 | Corporate debt securities | 48,229 | 29 | (1,323) | 46,935 | 100 | 9,875 | 36,960 |
 | Mortgage- and asset-backed securities | 24,678 | 5 | (1,894) | 22,789 | — | 39 | 22,750 |
 | Subtotal | 106,475 | 60 | (4,334) | 102,201 | 2,722 | 19,266 | 80,213 |
-Total
-| $ | 140,970 | $ | 303 | $ | (4,338) | $ | 136,935 | $ | 36,305 | $ | 20,417 | $ | 80,213 |
+| Total | $ | 140,970 | $ | 303 | $ | (4,338) | $ | 136,935 | $ | 36,305 | $ | 20,417 | $ | 80,213 |
 | 2025
-| Adjusted
-Cost | Unrealized
-Gains | Unrealized
-Losses | Fair
-Value | Cash and
-Cash
-Equivalents | Current
-Marketable
-Securities | Non-Current
-Marketable
-Securities
+| Adjusted Cost | Unrealized Gains | Unrealized Losses | Fair Value | Cash and Cash Equivalents | Current Marketable Securities | Non-Current Marketable Securities
 | Cash | $ | 28,267 | $ | — | $ | — | $ | 28,267 | $ | 28,267 | $ | — | $ | — |
 | Level 1: |
 | Money market funds | 5,272 | — | — | 5,272 | 5,272 | — | — |
-Mutual funds
-| 679 | 177 | (2) | 854 | — | 854 | — |
+| Mutual funds | 679 | 177 | (2) | 854 | — | 854 | — |
 | Subtotal | 5,951 | 177 | (2) | 6,126 | 5,272 | 854 | — |
-Level 2 (1):
+| Level 2 (1): |
 | U.S. Treasury securities | 16,074 | 56 | (282) | 15,848 | 1,190 | 3,712 | 10,946 |
 | U.S. agency securities | 5,269 | — | (149) | 5,120 | 251 | 2,456 | 2,413 |
 | Non-U.S. government securities | 6,586 | 111 | (424) | 6,273 | — | 855 | 5,418 |
@@ -910,29 +790,17 @@ Note 5 – Property, Plant and Equipment
 The following table shows the Company’s gross property, plant and equipment by major asset class and accumulated depreciation as of September 26, 2026 and September 27, 2025 (in millions):
 | 2026 | 2025
 | Land and buildings | $ | 29,413 | $ | 27,337 |
-Machinery, equipment and internal-use software
-| 84,379 | 83,420 |
+| Machinery, equipment and internal-use software | 84,379 | 83,420 |
 | Leasehold improvements | 16,143 | 15,091 |
 | Gross property, plant and equipment | 129,935 | 125,848 |
-Accumulated depreciation
-| (77,851) | (76,014) |
+| Accumulated depreciation | (77,851) | (76,014) |
 | Total property, plant and equipment, net | $ | 52,084 | $ | 49,834 |
 Depreciation expense on property, plant and equipment was $8.7 billion, $8.0 billion and $8.2 billion during 2026, 2025 and 2024, respectively.
 Apple Inc. | 2026 Form 10-K | 42
 Note 6 – Intangible Assets
 The following table summarizes the components of intangible asset balances as of September 26, 2026 and September 27, 2025 (in millions):
 | 2026 | 2025
-| Gross
-Intangible
-Assets | Accumulated
-Amortization | Net
-Intangible
-Assets | Gross
-Intangible
-Assets | Accumulated
-Amortization | Net
-Intangible
-Assets
+| Gross Intangible Assets | Accumulated Amortization | Net Intangible Assets | Gross Intangible Assets | Accumulated Amortization | Net Intangible Assets
 | Amortizable intangible assets: |
 | Licensed intangible assets | $ | 29,582 | $ | (8,639) | $ | 20,943 | $ | 16,061 | $ | (6,882) | $ | 9,179 |
 | Owned intangible assets | 8,363 | (5,145) | 3,218 | 7,514 | (4,767) | 2,747 |
@@ -965,8 +833,7 @@ Apple Inc. | 2026 Form 10-K | 43
 Other Current Liabilities
 | 2026 | 2025
 | Income taxes payable | $ | 5,287 | $ | 13,016 |
-Accrued distribution and marketing
-| 6,994 | 8,919 |
+| Accrued distribution and marketing | 6,994 | 8,919 |
 | Other current liabilities | 53,843 | 44,452 |
 | Total other current liabilities | $ | 66,124 | $ | 66,387 |
 Note 8 – Income Taxes
@@ -978,8 +845,7 @@ Income before provision for income taxes for 2026, 2025 and 2024 consisted of th
 | 2026 | 2025 | 2024
 | Domestic | $ | 63,732 | $ | 50,722 | $ | 46,169 |
 | Foreign | 95,505 | 82,007 | 77,316 |
-Income before provision for income taxes
-| $ | 159,237 | $ | 132,729 | $ | 123,485 |
+| Income before provision for income taxes | $ | 159,237 | $ | 132,729 | $ | 123,485 |
 Provision for Income Taxes and Effective Tax Rate
 The provision for income taxes for 2026, 2025 and 2024 consisted of the following (in millions):
 | 2026 | 2025 | 2024
@@ -1020,11 +886,9 @@ A reconciliation of the provision for income taxes to the amount computed by app
 | 2025 | 2024
 | Computed expected tax | $ | 27,873 | $ | 25,932 |
 | Earnings of foreign subsidiaries | (8,120) | (5,311) |
-Change in valuation allowance
-| 2,091 | — |
+| Change in valuation allowance | 2,091 | — |
 | Research and development credit, net | (1,049) | (1,397) |
-Impact of the State Aid Decision
-| (486) | 10,246 |
+| Impact of the State Aid Decision | (486) | 10,246 |
 | Other | 410 | 279 |
 | Provision for income taxes | $ | 20,719 | $ | 29,749 |
 | Effective tax rate | 15.6 | % | 24.1 | %
@@ -1092,9 +956,7 @@ The following table shows ROU assets and lease liabilities, and the associated f
 | Total lease liabilities | $ | 14,368 | $ | 13,720 |
 Apple Inc. | 2026 Form 10-K | 47
 Lease liability maturities as of September 26, 2026, are as follows (in millions):
-| Operating
-Leases | Finance
-Leases | Total
+| Operating Leases | Finance Leases | Total
 | 2027 | $ | 1,980 | $ | 725 | $ | 2,705 |
 | 2028 | 2,053 | 69 | 2,122 |
 | 2029 | 1,921 | 125 | 2,046 |
@@ -1120,30 +982,14 @@ The Company issues unsecured short-term promissory notes pursuant to a commercia
 Apple Inc. | 2026 Form 10-K | 48
 Term Debt
 The Company has outstanding Notes, which are senior unsecured obligations with interest payable in arrears. The following table provides a summary of the Company’s term debt as of September 26, 2026 and September 27, 2025:
-Maturities
-(calendar year)
-| 2026 | 2025
-Amount
-(in millions)
-| Effective
-Interest Rate |
-Amount
-(in millions)
-| Effective
-Interest Rate
+| Maturities (calendar year) | 2026 | 2025
+| Amount (in millions) | Effective Interest Rate | Amount (in millions) | Effective Interest Rate
 | 2013 – 2025 debt issuances: |
-Fixed-rate 0.500% – 4.850% notes
-2026 – 2062
-| $ | 78,678 |
-0.56% – 5.13%
-| $ | 91,281 |
-0.03% – 5.75%
-Total term debt principal
-| 78,678 | 91,281 |
+| Fixed-rate 0.500% – 4.850% notes | 2026 – 2062 | $ | 78,678 | 0.56% – 5.13% | $ | 91,281 | 0.03% – 5.75%
+| Total term debt principal | 78,678 | 91,281 |
 | Unamortized premium/(discount) and issuance costs, net | (277) | (309) |
 | Hedge accounting fair value adjustments | (287) | (294) |
-Total term debt
-| 78,114 | 90,678 |
+| Total term debt | 78,114 | 90,678 |
 | Less: Current portion of term debt | (9,906) | (12,350) |
 | Non-current portion of term debt | $ | 68,208 | $ | 78,328 |
 To manage interest rate risk on certain of its U.S. dollar–denominated fixed-rate notes, the Company uses interest rate swaps to effectively convert the fixed interest rates to floating interest rates on a portion of these notes. Additionally, to manage foreign exchange rate risk on certain of its foreign currency–denominated notes, the Company uses cross-currency swaps to effectively convert these notes to U.S. dollar–denominated notes.
@@ -1173,17 +1019,11 @@ Note 12 – Share-Based Compensation
 The Apple Inc. 2022 Employee Stock Plan (“2022 Plan”) is a shareholder-approved plan that provides for broad-based equity grants to employees, including executive officers, and permits the granting of restricted stock units (“RSUs”), stock grants, performance-based awards, stock options and stock appreciation rights. RSUs granted under the 2022 Plan generally vest over four years, based on continued employment, and are settled upon vesting in shares of the Company’s common stock on a one-for-one basis. All RSUs granted under the 2022 Plan have dividend equivalent rights, which entitle holders of RSUs to the same dividend value per share as holders of common stock. A maximum of approximately 1.3 billion shares were authorized for issuance pursuant to 2022 Plan awards at the time the plan was approved on March 4, 2022.
 Restricted Stock Units
 A summary of the Company’s RSU activity and related information for 2026 is as follows:
-Number of
-RSUs
-(in thousands)
-| Weighted-Average
-Grant-Date
-Fair Value
+| Number of RSUs (in thousands) | Weighted-Average Grant-Date Fair Value
 | Balance as of September 27, 2025 | 151,574 | $ | 189.75 |
 | RSUs granted | 75,538 | $ | 260.81 |
 | RSUs vested | (73,529) | $ | 185.44 |
-RSUs forfeited
-| (11,178) | $ | 215.25 |
+| RSUs forfeited | (11,178) | $ | 215.25 |
 | Balance as of September 26, 2026 | 142,405 | $ | 227.67 |
 The weighted-average grant-date fair value of RSUs granted in 2025 and 2024 was $226.68 and $173.78, respectively. The Company estimates the grant-date fair value of RSUs based on the closing price of the Company’s common stock on the date of grant.
 The total vesting-date fair value of RSUs was $19.3 billion, $17.1 billion and $15.8 billion for 2026, 2025 and 2024, respectively. The majority of RSUs that vested in 2026, 2025 and 2024 were net share settled such that the Company withheld shares with a value equivalent to the employees’ obligation for the applicable income and other employment taxes, and remitted cash to the appropriate taxing authorities. Total payments to taxing authorities for employees’ tax obligations were $6.9 billion, $6.1 billion and $5.6 billion in 2026, 2025 and 2024, respectively.
@@ -1218,11 +1058,7 @@ The Company’s reportable segments consist of the Americas, Europe, Greater Chi
 The CODM uses segment net sales and operating income information to make certain decisions, such as product and service pricing, and to decide how to allocate resources related to sales activities and marketing investments. Net sales for geographic segments are generally based on the location of customers and sales through the Company’s retail stores located in those geographic locations. Operating income for each segment consists of net sales to third parties, related cost of sales, and operating expenses directly attributable to the segment. The information provided to the CODM for purposes of making decisions and assessing segment performance excludes asset information.
 The following tables show information by reportable segment for 2026, 2025 and 2024 (in millions):
 | 2026
-| Americas | Europe |
-Greater
-China
-| Japan | Rest of
-Asia Pacific | Corporate | Total
+| Americas | Europe | Greater China | Japan | Rest of Asia Pacific | Corporate | Total
 | Net sales | $ | 198,083 | $ | 127,604 | $ | 82,378 | $ | 30,908 | $ | 39,861 | $ | — | $ | 478,834 |
 | Cost of sales | (101,321) | (64,387) | (44,362) | (15,203) | (19,959) | — | (245,232) |
 | Research and development | — | — | — | — | — | (45,765) | (45,765) |
@@ -1230,11 +1066,7 @@ Asia Pacific | Corporate | Total
 | General and administrative | — | — | — | — | — | (8,640) | (8,640) |
 | Operating income/(loss) | $ | 86,008 | $ | 58,098 | $ | 35,326 | $ | 14,650 | $ | 18,386 | $ | (54,405) | $ | 158,063 |
 | 2025
-| Americas | Europe |
-Greater
-China
-| Japan | Rest of
-Asia Pacific | Corporate | Total
+| Americas | Europe | Greater China | Japan | Rest of Asia Pacific | Corporate | Total
 | Net sales | $ | 178,353 | $ | 111,032 | $ | 64,377 | $ | 28,703 | $ | 33,696 | $ | — | $ | 416,161 |
 | Cost of sales | (95,699) | (58,617) | (35,141) | (13,779) | (17,724) | — | (220,960) |
 | Research and development | — | — | — | — | — | (34,550) | (34,550) |
@@ -1242,11 +1074,7 @@ Asia Pacific | Corporate | Total
 | General and administrative | — | — | — | — | — | (8,077) | (8,077) |
 | Operating income/(loss) | $ | 72,480 | $ | 47,739 | $ | 26,917 | $ | 13,955 | $ | 14,586 | $ | (42,627) | $ | 133,050 |
 | 2024
-| Americas | Europe |
-Greater
-China
-| Japan | Rest of
-Asia Pacific | Corporate | Total
+| Americas | Europe | Greater China | Japan | Rest of Asia Pacific | Corporate | Total
 | Net sales | $ | 167,045 | $ | 101,328 | $ | 66,952 | $ | 25,052 | $ | 30,658 | $ | — | $ | 391,035 |
 | Cost of sales | (89,587) | (55,197) | (37,519) | (11,744) | (16,305) | — | (210,352) |
 | Research and development | — | — | — | — | — | (31,370) | (31,370) |
@@ -1258,8 +1086,7 @@ The following tables show net sales for 2026, 2025 and 2024 and long-lived asset
 | 2026 | 2025 | 2024
 | Net sales: |
 | U.S. | $ | 167,746 | $ | 151,790 | $ | 142,196 |
-China (1)
-| 82,378 | 64,377 | 66,952 |
+| China (1) | 82,378 | 64,377 | 66,952 |
 | Other countries | 228,710 | 199,994 | 181,887 |
 | Total net sales | $ | 478,834 | $ | 416,161 | $ | 391,035 |
 (1)China includes Hong Kong and Taiwan.
@@ -1280,14 +1107,9 @@ We conducted our audits in accordance with the standards of the PCAOB. Those sta
 Critical Audit Matter
 The critical audit matter communicated below is a matter arising from the current period audit of the financial statements that was communicated or required to be communicated to the audit committee and that: (1) relates to accounts or disclosures that are material to the financial statements and (2) involved our especially challenging, subjective, or complex judgments. The communication of the critical audit matter does not alter in any way our opinion on the financial statements, taken as a whole, and we are not, by communicating the critical audit matter below, providing a separate opinion on the critical audit matter or on the account or disclosure to which it relates.
 | Uncertain Tax Positions
-| Description of the Matter |
-As discussed in Note 8 to the financial statements, the Company is subject to income taxes in the U.S. and numerous foreign jurisdictions. As of September 26, 2026, the total amount of gross unrecognized tax benefits was $22.5 billion, of which $10.6 billion, if recognized, would impact the Company’s effective tax rate. In accounting for some of the uncertain tax positions, the Company uses significant judgment in the interpretation and application of GAAP and complex domestic and international tax laws.
-Auditing management’s evaluation of whether an uncertain tax position is more likely than not to be sustained and the measurement of the benefit of various tax positions can be complex, involves significant judgment, and is based on interpretations of tax laws.
+| Description of the Matter | As discussed in Note 8 to the financial statements, the Company is subject to income taxes in the U.S. and numerous foreign jurisdictions. As of September 26, 2026, the total amount of gross unrecognized tax benefits was $22.5 billion, of which $10.6 billion, if recognized, would impact the Company’s effective tax rate. In accounting for some of the uncertain tax positions, the Company uses significant judgment in the interpretation and application of GAAP and complex domestic and international tax laws. Auditing management’s evaluation of whether an uncertain tax position is more likely than not to be sustained and the measurement of the benefit of various tax positions can be complex, involves significant judgment, and is based on interpretations of tax laws.
 Apple Inc. | 2026 Form 10-K | 54
-| How We Addressed the
-Matter in Our Audit |
-We tested controls relating to the evaluation of uncertain tax positions, including controls over management’s assessment as to whether tax positions are more likely than not to be sustained, management’s process to measure the benefit of its tax positions that qualify for recognition, and the related disclosures.
-We evaluated the Company’s assessment of which tax positions are more likely than not to be sustained and the related measurement of the amount of tax benefit that qualifies for recognition. Our audit procedures included, among others, reading and evaluating management’s assumptions and analysis, and, as applicable, the Company’s communications with taxing authorities, that detailed the basis and technical merits of the uncertain tax positions. We involved our tax subject matter resources in assessing the technical merits of certain of the Company’s tax positions based on our knowledge of relevant tax laws and experience with related taxing authorities. In addition, we evaluated the Company’s disclosure in relation to these matters included in Note 8 to the financial statements.
+| How We Addressed the Matter in Our Audit | We tested controls relating to the evaluation of uncertain tax positions, including controls over management’s assessment as to whether tax positions are more likely than not to be sustained, management’s process to measure the benefit of its tax positions that qualify for recognition, and the related disclosures. We evaluated the Company’s assessment of which tax positions are more likely than not to be sustained and the related measurement of the amount of tax benefit that qualifies for recognition. Our audit procedures included, among others, reading and evaluating management’s assumptions and analysis, and, as applicable, the Company’s communications with taxing authorities, that detailed the basis and technical merits of the uncertain tax positions. We involved our tax subject matter resources in assessing the technical merits of certain of the Company’s tax positions based on our knowledge of relevant tax laws and experience with related taxing authorities. In addition, we evaluated the Company’s disclosure in relation to these matters included in Note 8 to the financial statements.
 /s/ Ernst & Young LLP
 We have served as the Company’s auditor since 2009.
 San Jose, California
@@ -1347,209 +1169,86 @@ Item 15. Exhibit and Financial Statement Schedules
 (a)Documents filed as part of this report
 (1)All financial statements
 | Index to Consolidated Financial Statements | Page
-Consolidated Statements of Operations for the years ended September 26, 2026, September 27, 2025 and September 28, 2024
-32
-Consolidated Statements of Comprehensive Income for the years ended September 26, 2026, September 27, 2025 and September 28, 2024
-33
-Consolidated Balance Sheets as of September 26, 2026 and September 27, 2025
-34
-Consolidated Statements of Shareholders’ Equity for the years ended September 26, 2026, September 27, 2025 and September 28, 2024
-35
-Consolidated Statements of Cash Flows for the years ended September 26, 2026, September 27, 2025 and September 28, 2024
-36
-Notes to Consolidated Financial Statements
-37
-Reports of Independent Registered Public Accounting Firm*
-54
+| Consolidated Statements of Operations for the years ended September 26, 2026, September 27, 2025 and September 28, 2024 | 32
+| Consolidated Statements of Comprehensive Income for the years ended September 26, 2026, September 27, 2025 and September 28, 2024 | 33
+| Consolidated Balance Sheets as of September 26, 2026 and September 27, 2025 | 34
+| Consolidated Statements of Shareholders’ Equity for the years ended September 26, 2026, September 27, 2025 and September 28, 2024 | 35
+| Consolidated Statements of Cash Flows for the years ended September 26, 2026, September 27, 2025 and September 28, 2024 | 36
+| Notes to Consolidated Financial Statements | 37
+| Reports of Independent Registered Public Accounting Firm* | 54
 *Ernst & Young LLP, PCAOB Firm ID No. 00042.
 (2)Financial Statement Schedules
 All financial statement schedules have been omitted, since the required information is not applicable or is not present in amounts sufficient to require submission of the schedule, or because the information required is included in the consolidated financial statements and accompanying notes included in this Form 10-K.
 (3)Exhibits required by Item 601 of Regulation S-K (1)
 | Incorporated by Reference
-| Exhibit Number | Exhibit Description | Form | Exhibit | Filing Date/
-Period End Date
-| 3.1 |
-Restated Articles of Incorporation of the Registrant filed on August 3, 2020.
-| 8-K | 3.1 | 8/7/20
-| 3.2 |
-Amended and Restated Bylaws of the Registrant effective as of August 20, 2024.
-| 8-K | 3.2 |
-8/23/24
-| 4.1** |
-Description of Securities of the Registrant.
-| 4.2 |
-Indenture, dated as of April 29, 2013, between the Registrant and The Bank of New York Mellon Trust Company, N.A., as Trustee.
-| S-3 | 4.1 | 4/29/13
-| 4.3 |
-Officer’s Certificate of the Registrant, dated as of May 3, 2013, including forms of global notes representing the Floating Rate Notes due 2016, Floating Rate Notes due 2018, 0.45% Notes due 2016, 1.00% Notes due 2018, 2.40% Notes due 2023 and 3.85% Notes due 2043.
-| 8-K | 4.1 | 5/3/13
-| 4.4 |
-Officer’s Certificate of the Registrant, dated as of May 6, 2014, including forms of global notes representing the Floating Rate Notes due 2017, Floating Rate Notes due 2019, 1.05% Notes due 2017, 2.10% Notes due 2019, 2.85% Notes due 2021, 3.45% Notes due 2024 and 4.45% Notes due 2044.
-| 8-K | 4.1 | 5/6/14
-| 4.5 |
-Officer’s Certificate of the Registrant, dated as of November 10, 2014, including forms of global notes representing the 1.000% Notes due 2022 and 1.625% Notes due 2026.
-| 8-K | 4.1 | 11/10/14
-| 4.6 |
-Officer’s Certificate of the Registrant, dated as of February 9, 2015, including forms of global notes representing the Floating Rate Notes due 2020, 1.55% Notes due 2020, 2.15% Notes due 2022, 2.50% Notes due 2025 and 3.45% Notes due 2045.
-| 8-K | 4.1 | 2/9/15
-| 4.7 |
-Officer’s Certificate of the Registrant, dated as of May 13, 2015, including forms of global notes representing the Floating Rate Notes due 2017, Floating Rate Notes due 2020, 0.900% Notes due 2017, 2.000% Notes due 2020, 2.700% Notes due 2022, 3.200% Notes due 2025, and 4.375% Notes due 2045.
-| 8-K | 4.1 | 5/13/15
-| 4.8 |
-Officer’s Certificate of the Registrant, dated as of July 31, 2015, including forms of global notes representing the 3.05% Notes due 2029 and 3.60% Notes due 2042.
-| 8-K | 4.1 | 7/31/15
+| Exhibit Number | Exhibit Description | Form | Exhibit | Filing Date/ Period End Date
+| 3.1 | Restated Articles of Incorporation of the Registrant filed on August 3, 2020. | 8-K | 3.1 | 8/7/20
+| 3.2 | Amended and Restated Bylaws of the Registrant effective as of August 20, 2024. | 8-K | 3.2 | 8/23/24
+| 4.1** | Description of Securities of the Registrant. |
+| 4.2 | Indenture, dated as of April 29, 2013, between the Registrant and The Bank of New York Mellon Trust Company, N.A., as Trustee. | S-3 | 4.1 | 4/29/13
+| 4.3 | Officer’s Certificate of the Registrant, dated as of May 3, 2013, including forms of global notes representing the Floating Rate Notes due 2016, Floating Rate Notes due 2018, 0.45% Notes due 2016, 1.00% Notes due 2018, 2.40% Notes due 2023 and 3.85% Notes due 2043. | 8-K | 4.1 | 5/3/13
+| 4.4 | Officer’s Certificate of the Registrant, dated as of May 6, 2014, including forms of global notes representing the Floating Rate Notes due 2017, Floating Rate Notes due 2019, 1.05% Notes due 2017, 2.10% Notes due 2019, 2.85% Notes due 2021, 3.45% Notes due 2024 and 4.45% Notes due 2044. | 8-K | 4.1 | 5/6/14
+| 4.5 | Officer’s Certificate of the Registrant, dated as of November 10, 2014, including forms of global notes representing the 1.000% Notes due 2022 and 1.625% Notes due 2026. | 8-K | 4.1 | 11/10/14
+| 4.6 | Officer’s Certificate of the Registrant, dated as of February 9, 2015, including forms of global notes representing the Floating Rate Notes due 2020, 1.55% Notes due 2020, 2.15% Notes due 2022, 2.50% Notes due 2025 and 3.45% Notes due 2045. | 8-K | 4.1 | 2/9/15
+| 4.7 | Officer’s Certificate of the Registrant, dated as of May 13, 2015, including forms of global notes representing the Floating Rate Notes due 2017, Floating Rate Notes due 2020, 0.900% Notes due 2017, 2.000% Notes due 2020, 2.700% Notes due 2022, 3.200% Notes due 2025, and 4.375% Notes due 2045. | 8-K | 4.1 | 5/13/15
+| 4.8 | Officer’s Certificate of the Registrant, dated as of July 31, 2015, including forms of global notes representing the 3.05% Notes due 2029 and 3.60% Notes due 2042. | 8-K | 4.1 | 7/31/15
 Apple Inc. | 2026 Form 10-K | 59
 | Incorporated by Reference
-| Exhibit Number | Exhibit Description | Form | Exhibit | Filing Date/
-Period End Date
-| 4.9 |
-Officer’s Certificate of the Registrant, dated as of September 17, 2015, including forms of global notes representing the 1.375% Notes due 2024 and 2.000% Notes due 2027.
-| 8-K | 4.1 | 9/17/15
-| 4.10 |
-Officer’s Certificate of the Registrant, dated as of February 23, 2016, including forms of global notes representing the Floating Rate Notes due 2019, Floating Rate Notes due 2021, 1.300% Notes due 2018, 1.700% Notes due 2019, 2.250% Notes due 2021, 2.850% Notes due 2023, 3.250% Notes due 2026, 4.500% Notes due 2036 and 4.650% Notes due 2046.
-| 8-K | 4.1 | 2/23/16
-| 4.11 |
-Supplement No. 1 to the Officer’s Certificate of the Registrant, dated as of March 24, 2016.
-| 8-K | 4.1 | 3/24/16
-| 4.12 |
-Officer’s Certificate of the Registrant, dated as of August 4, 2016, including forms of global notes representing the Floating Rate Notes due 2019, 1.100% Notes due 2019, 1.550% Notes due 2021, 2.450% Notes due 2026 and 3.850% Notes due 2046.
-| 8-K | 4.1 | 8/4/16
-| 4.13 |
-Officer’s Certificate of the Registrant, dated as of February 9, 2017, including forms of global notes representing the Floating Rate Notes due 2019, Floating Rate Notes due 2020, Floating Rate Notes due 2022, 1.550% Notes due 2019, 1.900% Notes due 2020, 2.500% Notes due 2022, 3.000% Notes due 2024, 3.350% Notes due 2027 and 4.250% Notes due 2047.
-| 8-K | 4.1 | 2/9/17
-| 4.14 |
-Officer’s Certificate of the Registrant, dated as of May 11, 2017, including forms of global notes representing the Floating Rate Notes due 2020, Floating Rate Notes due 2022, 1.800% Notes due 2020, 2.300% Notes due 2022, 2.850% Notes due 2024 and 3.200% Notes due 2027.
-| 8-K | 4.1 | 5/11/17
-| 4.15 |
-Officer’s Certificate of the Registrant, dated as of May 24, 2017, including forms of global notes representing the 0.875% Notes due 2025 and 1.375% Notes due 2029.
-| 8-K | 4.1 | 5/24/17
-| 4.16 |
-Officer’s Certificate of the Registrant, dated as of June 20, 2017, including form of global note representing the 3.000% Notes due 2027.
-| 8-K | 4.1 | 6/20/17
-4.17
-Officer’s Certificate of the Registrant, dated as of September 12, 2017, including forms of global notes representing the 1.500% Notes due 2019, 2.100% Notes due 2022, 2.900% Notes due 2027 and 3.750% Notes due 2047.
-| 8-K | 4.1 | 9/12/17
-4.18
-Officer’s Certificate of the Registrant, dated as of November 13, 2017, including forms of global notes representing the 1.800% Notes due 2019, 2.000% Notes due 2020, 2.400% Notes due 2023, 2.750% Notes due 2025, 3.000% Notes due 2027 and 3.750% Notes due 2047.
-| 8-K | 4.1 | 11/13/17
-4.19
-Indenture, dated as of November 5, 2018, between the Registrant and The Bank of New York Mellon Trust Company, N.A., as Trustee.
-| S-3 | 4.1 | 11/5/18
-4.20
-Officer’s Certificate of the Registrant, dated as of September 11, 2019, including forms of global notes representing the 1.700% Notes due 2022, 1.800% Notes due 2024, 2.050% Notes due 2026, 2.200% Notes due 2029 and 2.950% Notes due 2049.
-| 8-K | 4.1 | 9/11/19
-4.21
-Officer’s Certificate of the Registrant, dated as of November 15, 2019, including forms of global notes representing the 0.000% Notes due 2025 and 0.500% Notes due 2031.
-| 8-K | 4.1 | 11/15/19
-4.22
-Officer’s Certificate of the Registrant, dated as of May 11, 2020, including forms of global notes representing the 0.750% Notes due 2023, 1.125% Notes due 2025, 1.650% Notes due 2030 and 2.650% Notes due 2050.
-| 8-K | 4.1 | 5/11/20
-4.23
-Officer’s Certificate of the Registrant, dated as of August 20, 2020, including forms of global notes representing the 0.550% Notes due 2025, 1.25% Notes due 2030, 2.400% Notes due 2050 and 2.550% Notes due 2060.
-| 8-K | 4.1 | 8/20/20
-4.24
-Officer’s Certificate of the Registrant, dated as of February 8, 2021, including forms of global notes representing the 0.700% Notes due 2026, 1.200% Notes due 2028, 1.650% Notes due 2031, 2.375% Notes due 2041, 2.650% Notes due 2051 and 2.800% Notes due 2061.
-| 8-K | 4.1 | 2/8/21
-4.25
-Officer’s Certificate of the Registrant, dated as of August 5, 2021, including forms of global notes representing the 1.400% Notes due 2028, 1.700% Notes due 2031, 2.700% Notes due 2051 and 2.850% Notes due 2061.
-| 8-K | 4.1 | 8/5/21
+| Exhibit Number | Exhibit Description | Form | Exhibit | Filing Date/ Period End Date
+| 4.9 | Officer’s Certificate of the Registrant, dated as of September 17, 2015, including forms of global notes representing the 1.375% Notes due 2024 and 2.000% Notes due 2027. | 8-K | 4.1 | 9/17/15
+| 4.10 | Officer’s Certificate of the Registrant, dated as of February 23, 2016, including forms of global notes representing the Floating Rate Notes due 2019, Floating Rate Notes due 2021, 1.300% Notes due 2018, 1.700% Notes due 2019, 2.250% Notes due 2021, 2.850% Notes due 2023, 3.250% Notes due 2026, 4.500% Notes due 2036 and 4.650% Notes due 2046. | 8-K | 4.1 | 2/23/16
+| 4.11 | Supplement No. 1 to the Officer’s Certificate of the Registrant, dated as of March 24, 2016. | 8-K | 4.1 | 3/24/16
+| 4.12 | Officer’s Certificate of the Registrant, dated as of August 4, 2016, including forms of global notes representing the Floating Rate Notes due 2019, 1.100% Notes due 2019, 1.550% Notes due 2021, 2.450% Notes due 2026 and 3.850% Notes due 2046. | 8-K | 4.1 | 8/4/16
+| 4.13 | Officer’s Certificate of the Registrant, dated as of February 9, 2017, including forms of global notes representing the Floating Rate Notes due 2019, Floating Rate Notes due 2020, Floating Rate Notes due 2022, 1.550% Notes due 2019, 1.900% Notes due 2020, 2.500% Notes due 2022, 3.000% Notes due 2024, 3.350% Notes due 2027 and 4.250% Notes due 2047. | 8-K | 4.1 | 2/9/17
+| 4.14 | Officer’s Certificate of the Registrant, dated as of May 11, 2017, including forms of global notes representing the Floating Rate Notes due 2020, Floating Rate Notes due 2022, 1.800% Notes due 2020, 2.300% Notes due 2022, 2.850% Notes due 2024 and 3.200% Notes due 2027. | 8-K | 4.1 | 5/11/17
+| 4.15 | Officer’s Certificate of the Registrant, dated as of May 24, 2017, including forms of global notes representing the 0.875% Notes due 2025 and 1.375% Notes due 2029. | 8-K | 4.1 | 5/24/17
+| 4.16 | Officer’s Certificate of the Registrant, dated as of June 20, 2017, including form of global note representing the 3.000% Notes due 2027. | 8-K | 4.1 | 6/20/17
+| 4.17 | Officer’s Certificate of the Registrant, dated as of September 12, 2017, including forms of global notes representing the 1.500% Notes due 2019, 2.100% Notes due 2022, 2.900% Notes due 2027 and 3.750% Notes due 2047. | 8-K | 4.1 | 9/12/17
+| 4.18 | Officer’s Certificate of the Registrant, dated as of November 13, 2017, including forms of global notes representing the 1.800% Notes due 2019, 2.000% Notes due 2020, 2.400% Notes due 2023, 2.750% Notes due 2025, 3.000% Notes due 2027 and 3.750% Notes due 2047. | 8-K | 4.1 | 11/13/17
+| 4.19 | Indenture, dated as of November 5, 2018, between the Registrant and The Bank of New York Mellon Trust Company, N.A., as Trustee. | S-3 | 4.1 | 11/5/18
+| 4.20 | Officer’s Certificate of the Registrant, dated as of September 11, 2019, including forms of global notes representing the 1.700% Notes due 2022, 1.800% Notes due 2024, 2.050% Notes due 2026, 2.200% Notes due 2029 and 2.950% Notes due 2049. | 8-K | 4.1 | 9/11/19
+| 4.21 | Officer’s Certificate of the Registrant, dated as of November 15, 2019, including forms of global notes representing the 0.000% Notes due 2025 and 0.500% Notes due 2031. | 8-K | 4.1 | 11/15/19
+| 4.22 | Officer’s Certificate of the Registrant, dated as of May 11, 2020, including forms of global notes representing the 0.750% Notes due 2023, 1.125% Notes due 2025, 1.650% Notes due 2030 and 2.650% Notes due 2050. | 8-K | 4.1 | 5/11/20
+| 4.23 | Officer’s Certificate of the Registrant, dated as of August 20, 2020, including forms of global notes representing the 0.550% Notes due 2025, 1.25% Notes due 2030, 2.400% Notes due 2050 and 2.550% Notes due 2060. | 8-K | 4.1 | 8/20/20
+| 4.24 | Officer’s Certificate of the Registrant, dated as of February 8, 2021, including forms of global notes representing the 0.700% Notes due 2026, 1.200% Notes due 2028, 1.650% Notes due 2031, 2.375% Notes due 2041, 2.650% Notes due 2051 and 2.800% Notes due 2061. | 8-K | 4.1 | 2/8/21
+| 4.25 | Officer’s Certificate of the Registrant, dated as of August 5, 2021, including forms of global notes representing the 1.400% Notes due 2028, 1.700% Notes due 2031, 2.700% Notes due 2051 and 2.850% Notes due 2061. | 8-K | 4.1 | 8/5/21
 Apple Inc. | 2026 Form 10-K | 60
 | Incorporated by Reference
-| Exhibit Number | Exhibit Description | Form | Exhibit | Filing Date/
-Period End Date
-4.26
-Indenture, dated as of October 28, 2021, between the Registrant and The Bank of New York Mellon Trust Company, N.A., as Trustee.
-| S-3 | 4.1 | 10/29/21
-4.27
-Officer’s Certificate of the Registrant, dated as of August 8, 2022, including forms of global notes representing the 3.250% Notes due 2029, 3.350% Notes due 2032, 3.950% Notes due 2052 and 4.100% Notes due 2062.
-| 8-K | 4.1 | 8/8/22
-4.28
-Officer’s Certificate of the Registrant, dated as of May 10, 2023, including forms of global notes representing the 4.421% Notes due 2026, 4.000% Notes due 2028, 4.150% Notes due 2030, 4.300% Notes due 2033 and 4.850% Notes due 2053.
-| 8-K | 4.1 | 5/10/23
-4.29
-Officer’s Certificate of the Registrant, dated as of May 12, 2025, including forms of global notes representing the 4.000% Notes due 2028, 4.200% Notes due 2030, 4.500% Notes due 2032 and 4.750% Notes due 2035.
-| 8-K | 4.1 | 5/12/25
-4.30*
-Apple Inc. Deferred Compensation Plan.
-| S-8 | 4.1 | 8/23/18
-| 10.1* |
-Apple Inc. Employee Stock Purchase Plan, as amended as of November 6, 2024.
-10-Q
-| 10.1 | 12/28/24
-| 10.2* |
-Form of Indemnification Agreement between the Registrant and each director and executive officer of the Registrant.
-| 10-Q | 10.2 | 6/27/09
-| 10.3* |
-Apple Inc. Non-Employee Director Stock Plan, as amended November 6, 2024.
-| 10-Q |
-10.2
-| 12/28/24
-| 10.4* |
-Apple Inc. 2022 Employee Stock Plan.
-| 8-K | 10.1 | 3/4/22
-| 10.5* |
-Form of Restricted Stock Unit Award Agreement under 2022 Employee Stock Plan effective as of March 4, 2022.
-| 8-K | 10.2 | 3/4/22
-| 10.6* |
-Form of Performance Award Agreement under 2022 Employee Stock Plan effective as of March 4, 2022.
-| 8-K | 10.3 | 3/4/22
-| 10.7* |
-Apple Inc. Executive Cash Incentive Plan.
-| 8-K | 10.1 | 8/19/22
-| 10.8* |
-Form of CEO Restricted Stock Unit Award Agreement under 2022 Employee Stock Plan effective as of September 25, 2022.
-| 10-Q | 10.1 | 12/31/22
-| 10.9* |
-Form of Restricted Stock Unit Award Agreement under 2022 Employee Stock Plan effective as of September 29, 2024.
-10-K
-| 10.19 | 9/28/24
-| 10.10* |
-Form of Performance Award Agreement under 2022 Employee Stock Plan effective as of September 29, 2024.
-10-K
-10.20
-| 9/28/24
-| 10.11* |
-Form of CEO Restricted Stock Unit Award Agreement under 2022 Employee Stock Plan effective as of September 29, 2024.
-10-K
-| 10.21 | 9/28/24
-| 10.12* |
-Form of CEO Performance Award Agreement under 2022 Employee Stock Plan effective as of September 29, 2024.
-10-K
-| 10.22 | 9/28/24
-| 10.13*, ** |
-Form of Executive Chair Restricted Stock Unit Award Agreement under 2022 Employee Stock Plan effective as of September 27, 2026.
-| 10.14*, ** |
-Form of Executive Chair Performance Award Agreement under 2022 Employee Stock Plan effective as of September 27, 2026.
-| 10.15*, ** |
-Form of Restricted Stock Unit Award Agreement under 2022 Employee Stock Plan effective as of September 27, 2026.
-| 10.16*, ** |
-Form of Performance Award Agreement under 2022 Employee Stock Plan effective as of September 27, 2026.
-| 19.1** |
-Insider Trading Policy.
-| 21.1** |
-Subsidiaries of the Registrant.
-| 23.1** |
-Consent of Independent Registered Public Accounting Firm.
-| 24.1** |
-Power of Attorney (included on the Signatures page of this Annual Report on Form 10-K).
-| 31.1** |
-Rule 13a-14(a) / 15d-14(a) Certification of Chief Executive Officer.
-| 31.2** |
-Rule 13a-14(a) / 15d-14(a) Certification of Chief Financial Officer.
-| 32.1*** |
-Section 1350 Certifications of Chief Executive Officer and Chief Financial Officer.
-97.1*
-Rule 10D-1 Recovery Policy.
-10-K
-| 97.1 | 9/28/24
+| Exhibit Number | Exhibit Description | Form | Exhibit | Filing Date/ Period End Date
+| 4.26 | Indenture, dated as of October 28, 2021, between the Registrant and The Bank of New York Mellon Trust Company, N.A., as Trustee. | S-3 | 4.1 | 10/29/21
+| 4.27 | Officer’s Certificate of the Registrant, dated as of August 8, 2022, including forms of global notes representing the 3.250% Notes due 2029, 3.350% Notes due 2032, 3.950% Notes due 2052 and 4.100% Notes due 2062. | 8-K | 4.1 | 8/8/22
+| 4.28 | Officer’s Certificate of the Registrant, dated as of May 10, 2023, including forms of global notes representing the 4.421% Notes due 2026, 4.000% Notes due 2028, 4.150% Notes due 2030, 4.300% Notes due 2033 and 4.850% Notes due 2053. | 8-K | 4.1 | 5/10/23
+| 4.29 | Officer’s Certificate of the Registrant, dated as of May 12, 2025, including forms of global notes representing the 4.000% Notes due 2028, 4.200% Notes due 2030, 4.500% Notes due 2032 and 4.750% Notes due 2035. | 8-K | 4.1 | 5/12/25
+| 4.30* | Apple Inc. Deferred Compensation Plan. | S-8 | 4.1 | 8/23/18
+| 10.1* | Apple Inc. Employee Stock Purchase Plan, as amended as of November 6, 2024. | 10-Q | 10.1 | 12/28/24
+| 10.2* | Form of Indemnification Agreement between the Registrant and each director and executive officer of the Registrant. | 10-Q | 10.2 | 6/27/09
+| 10.3* | Apple Inc. Non-Employee Director Stock Plan, as amended November 6, 2024. | 10-Q | 10.2 | 12/28/24
+| 10.4* | Apple Inc. 2022 Employee Stock Plan. | 8-K | 10.1 | 3/4/22
+| 10.5* | Form of Restricted Stock Unit Award Agreement under 2022 Employee Stock Plan effective as of March 4, 2022. | 8-K | 10.2 | 3/4/22
+| 10.6* | Form of Performance Award Agreement under 2022 Employee Stock Plan effective as of March 4, 2022. | 8-K | 10.3 | 3/4/22
+| 10.7* | Apple Inc. Executive Cash Incentive Plan. | 8-K | 10.1 | 8/19/22
+| 10.8* | Form of CEO Restricted Stock Unit Award Agreement under 2022 Employee Stock Plan effective as of September 25, 2022. | 10-Q | 10.1 | 12/31/22
+| 10.9* | Form of Restricted Stock Unit Award Agreement under 2022 Employee Stock Plan effective as of September 29, 2024. | 10-K | 10.19 | 9/28/24
+| 10.10* | Form of Performance Award Agreement under 2022 Employee Stock Plan effective as of September 29, 2024. | 10-K | 10.20 | 9/28/24
+| 10.11* | Form of CEO Restricted Stock Unit Award Agreement under 2022 Employee Stock Plan effective as of September 29, 2024. | 10-K | 10.21 | 9/28/24
+| 10.12* | Form of CEO Performance Award Agreement under 2022 Employee Stock Plan effective as of September 29, 2024. | 10-K | 10.22 | 9/28/24
+| 10.13*, ** | Form of Executive Chair Restricted Stock Unit Award Agreement under 2022 Employee Stock Plan effective as of September 27, 2026. |
+| 10.14*, ** | Form of Executive Chair Performance Award Agreement under 2022 Employee Stock Plan effective as of September 27, 2026. |
+| 10.15*, ** | Form of Restricted Stock Unit Award Agreement under 2022 Employee Stock Plan effective as of September 27, 2026. |
+| 10.16*, ** | Form of Performance Award Agreement under 2022 Employee Stock Plan effective as of September 27, 2026. |
+| 19.1** | Insider Trading Policy. |
+| 21.1** | Subsidiaries of the Registrant. |
+| 23.1** | Consent of Independent Registered Public Accounting Firm. |
+| 24.1** | Power of Attorney (included on the Signatures page of this Annual Report on Form 10-K). |
+| 31.1** | Rule 13a-14(a) / 15d-14(a) Certification of Chief Executive Officer. |
+| 31.2** | Rule 13a-14(a) / 15d-14(a) Certification of Chief Financial Officer. |
+| 32.1*** | Section 1350 Certifications of Chief Executive Officer and Chief Financial Officer. |
+| 97.1* | Rule 10D-1 Recovery Policy. | 10-K | 97.1 | 9/28/24
 Apple Inc. | 2026 Form 10-K | 61
 | Incorporated by Reference
-| Exhibit Number | Exhibit Description | Form | Exhibit | Filing Date/
-Period End Date
-| 101** |
-Inline XBRL Document Set for the consolidated financial statements and accompanying notes in Part II, Item 8, “Financial Statements and Supplementary Data” of this Annual Report on Form 10-K.
-| 104** |
-Inline XBRL for the cover page of this Annual Report on Form 10-K, included in the Exhibit 101 Inline XBRL Document Set.
+| Exhibit Number | Exhibit Description | Form | Exhibit | Filing Date/ Period End Date
+| 101** | Inline XBRL Document Set for the consolidated financial statements and accompanying notes in Part II, Item 8, “Financial Statements and Supplementary Data” of this Annual Report on Form 10-K. |
+| 104** | Inline XBRL for the cover page of this Annual Report on Form 10-K, included in the Exhibit 101 Inline XBRL Document Set. |
 *Indicates management contract or compensatory plan or arrangement.
 **Filed herewith.
 ***Furnished herewith.
@@ -1559,28 +1258,22 @@ None.
 Apple Inc. | 2026 Form 10-K | 62
 SIGNATURES
 Pursuant to the requirements of Section 13 or 15(d) of the Securities Exchange Act of 1934, the Registrant has duly caused this report to be signed on its behalf by the undersigned, thereunto duly authorized.
-Date: November 3, 2026
-| Apple Inc.
+| Date: November 3, 2026 | Apple Inc.
 | By: | /s/ Kevan Parekh
 | Kevan Parekh
-| Senior Vice President,
-Chief Financial Officer
+| Senior Vice President, Chief Financial Officer
 Power of Attorney
 KNOW ALL PERSONS BY THESE PRESENTS, that each person whose signature appears below constitutes and appoints John Ternus and Kevan Parekh, jointly and severally, his or her attorneys-in-fact, each with the power of substitution, for him or her in any and all capacities, to sign any amendments to this Annual Report on Form 10-K, and to file the same, with exhibits thereto and other documents in connection therewith, with the Securities and Exchange Commission, hereby ratifying and confirming all that each of said attorneys-in-fact, or his substitute or substitutes, may do or cause to be done by virtue hereof.
 Pursuant to the requirements of the Securities Exchange Act of 1934, this report has been signed below by the following persons on behalf of the Registrant and in the capacities and on the dates indicated:
 | Name | Title | Date
-| /s/ John Ternus | Chief Executive Officer and Director
-(Principal Executive Officer) | November 3, 2026
+| /s/ John Ternus | Chief Executive Officer and Director (Principal Executive Officer) | November 3, 2026
 | JOHN TERNUS |
-| /s/ Kevan Parekh | Senior Vice President, Chief Financial Officer
-(Principal Financial Officer) | November 3, 2026
+| /s/ Kevan Parekh | Senior Vice President, Chief Financial Officer (Principal Financial Officer) | November 3, 2026
 | KEVAN PAREKH |
-| /s/ Ben Borders | Senior Director of Corporate Accounting
-(Principal Accounting Officer) | November 3, 2026
+| /s/ Ben Borders | Senior Director of Corporate Accounting (Principal Accounting Officer) | November 3, 2026
 | BEN BORDERS |
-/s/ Wanda Austin
-| Director | November 3, 2026
-WANDA AUSTIN
+| /s/ Wanda Austin | Director | November 3, 2026
+| WANDA AUSTIN |
 | /s/ Timothy D. Cook | Director and Executive Chair of the Board | November 3, 2026
 | TIMOTHY D. COOK |
 | /s/ Alex Gorsky | Director | November 3, 2026

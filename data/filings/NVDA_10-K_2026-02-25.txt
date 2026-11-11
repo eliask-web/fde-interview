@@ -20,10 +20,8 @@ NVIDIA CORPORATION
 | Delaware | 94-3177549
 | (State or other jurisdiction of | (I.R.S. Employer
 | incorporation or organization) | Identification No.)
-2788 San Tomas Expressway, Santa Clara, California
-| 95051
-(Address of principal executive offices)
-(Zip Code)
+| 2788 San Tomas Expressway, Santa Clara, California | 95051
+| (Address of principal executive offices) | (Zip Code)
 Registrant’s telephone number, including area code: (408) 486-2000
 Securities registered pursuant to Section 12(b) of the Act:
 | Title of each class | Trading Symbol(s) | Name of each exchange on which registered
@@ -49,81 +47,34 @@ Table of Contents
 NVIDIA Corporation
 Table of Contents
 | Page
-Part I
-Item 1.
-Business
-4
-Item 1A.
-Risk Factors
-12
-Item 1B.
-Unresolved Staff Comments
-32
-Item 1C
-Cybersecurity
-32
-Item 2.
-Properties
-33
-Item 3.
-Legal Proceedings
-33
-Item 4.
-Mine Safety Disclosures
-33
-Part II
-Item 5.
-Market for Registrant’s Common Equity, Related Stockholder Matters and Issuer Purchases of Equity Securities
-33
-Item 6.
-[Reserved]
-35
-Item 7.
-Management’s Discussion and Analysis of Financial Condition and Results of Operations
-36
-Item 7A.
-Quantitative and Qualitative Disclosures About Market Risk
-44
-Item 8.
-Financial Statements and Supplementary Data
-45
-Item 9.
-Changes in and Disagreements with Accountants on Accounting and Financial Disclosure
-45
-Item 9A.
-Controls and Procedures
-45
-Item 9B.
-Other Information
-46
-Item 9C.
-Disclosure Regarding Foreign Jurisdictions that Prevent Inspections
-46
-Part III
-Item 10.
-Directors, Executive Officers and Corporate Governance
-46
-Item 11.
-Executive Compensation
-47
-Item 12.
-Security Ownership of Certain Beneficial Owners and Management and Related Stockholder Matters
-47
-Item 13.
-Certain Relationships and Related Transactions, and Director Independence
-47
-Item 14.
-Principal Accountant Fees and Services
-47
-Part IV
-Item 15.
-Exhibits and Financial Statement Schedules
-48
-Item 16.
-Form 10-K Summary
-83
-Signatures
-84
+| Part I |
+| Item 1. | Business | 4
+| Item 1A. | Risk Factors | 12
+| Item 1B. | Unresolved Staff Comments | 32
+| Item 1C | Cybersecurity | 32
+| Item 2. | Properties | 33
+| Item 3. | Legal Proceedings | 33
+| Item 4. | Mine Safety Disclosures | 33
+| Part II |
+| Item 5. | Market for Registrant’s Common Equity, Related Stockholder Matters and Issuer Purchases of Equity Securities | 33
+| Item 6. | [Reserved] | 35
+| Item 7. | Management’s Discussion and Analysis of Financial Condition and Results of Operations | 36
+| Item 7A. | Quantitative and Qualitative Disclosures About Market Risk | 44
+| Item 8. | Financial Statements and Supplementary Data | 45
+| Item 9. | Changes in and Disagreements with Accountants on Accounting and Financial Disclosure | 45
+| Item 9A. | Controls and Procedures | 45
+| Item 9B. | Other Information | 46
+| Item 9C. | Disclosure Regarding Foreign Jurisdictions that Prevent Inspections | 46
+| Part III |
+| Item 10. | Directors, Executive Officers and Corporate Governance | 46
+| Item 11. | Executive Compensation | 47
+| Item 12. | Security Ownership of Certain Beneficial Owners and Management and Related Stockholder Matters | 47
+| Item 13. | Certain Relationships and Related Transactions, and Director Independence | 47
+| Item 14. | Principal Accountant Fees and Services | 47
+| Part IV |
+| Item 15. | Exhibits and Financial Statement Schedules | 48
+| Item 16. | Form 10-K Summary | 83
+| Signatures | 84
 2
 Table of Contents
 Where You Can Find More Information
@@ -587,9 +538,7 @@ In fiscal year 2026, we paid cash dividends to our shareholders of $974 million.
 33
 Table of Contents
 The following table presents details of our share repurchase transactions during the fourth quarter of fiscal year 2026:
-| Period | Total Number
-of Shares Purchased
-(In millions) | Average Price Paid per Share (1) | Total Number of Shares Purchased as Part of Publicly Announced Program (In millions) | Approximate Dollar Value of Shares that May Yet Be Purchased Under the Program (In billions)
+| Period | Total Number of Shares Purchased (In millions) | Average Price Paid per Share (1) | Total Number of Shares Purchased as Part of Publicly Announced Program (In millions) | Approximate Dollar Value of Shares that May Yet Be Purchased Under the Program (In billions)
 | October 27, 2025 - November 23, 2025 | 5.6 | $ | 198.89 | 5.6 | $ | 61.1 |
 | November 24, 2025 - December 21, 2025 | 6.6 | $ | 179.41 | 6.6 | $ | 59.9 |
 | December 22, 2025 - January 25, 2026 | 7.3 | $ | 186.52 | 7.3 | $ | 58.5 |
@@ -696,32 +645,24 @@ The following table sets forth, for the periods indicated, certain items in our 
 | Operating income | 60.4 | 62.4 |
 | Interest income | 1.1 | 1.4 |
 | Interest expense | (0.1) | (0.2) |
-Other income, net
-| 4.2 | 0.8 |
-Total other income, net
-| 5.2 | 2.0 |
+| Other income, net | 4.2 | 0.8 |
+| Total other income, net | 5.2 | 2.0 |
 | Income before income tax | 65.5 | 64.4 |
 | Income tax expense | 9.9 | 8.6 |
 | Net income | 55.6 | % | 55.8 | %
 Reportable Segments
 Revenue by Reportable Segments
 | Year Ended
-| Jan 25, 2026 | Jan 26, 2025 | $
-Change | %
-Change
+| Jan 25, 2026 | Jan 26, 2025 | $ Change | % Change
 | ($ in millions)
-Compute & Networking
-| $ | 193,479 | $ | 116,193 | $ | 77,286 | 67 | %
+| Compute & Networking | $ | 193,479 | $ | 116,193 | $ | 77,286 | 67 | %
 | Graphics | 22,459 | 14,304 | 8,155 | 57 | %
 | Total | $ | 215,938 | $ | 130,497 | $ | 85,441 | 65 | %
 Operating Income by Reportable Segments
 | Year Ended
-| Jan 25, 2026 | Jan 26, 2025 | $
-Change | %
-Change
+| Jan 25, 2026 | Jan 26, 2025 | $ Change | % Change
 | ($ in millions)
-Compute & Networking
-| $ | 130,141 | $ | 82,875 | $ | 47,266 | 57 | %
+| Compute & Networking | $ | 130,141 | $ | 82,875 | $ | 47,266 | 57 | %
 | Graphics | 9,156 | 5,085 | 4,071 | 80 | %
 | Total | $ | 139,297 | $ | 87,960 | $ | 51,337 | 58 | %
 Compute & Networking revenue – The year over year increase was driven by the major platform shifts – accelerated computing and AI. Revenue from Data Center computing grew 59% driven by demand for our Blackwell computing platform. Revenue from Data Center networking grew 142% driven by the introduction and continued ramp of NVLink compute fabric for GB200 and GB300 systems and the growth of Ethernet and InfiniBand platforms.
@@ -742,9 +683,7 @@ Gross margins decreased to 71.1% in fiscal year 2026 from 75.0% in fiscal year 2
 Provisions for inventory and excess inventory purchase obligations totaled $7.2 billion and $3.7 billion for fiscal years 2026 and 2025, respectively, including $4.5 billion associated with H20 excess inventory and purchase obligations for the first quarter of fiscal year 2026. Sales of previously reserved inventory and settlements of excess inventory purchase obligations resulted in a provision release of $1.5 billion and $689 million for fiscal years 2026 and 2025, respectively. The net effect on our gross margin was an unfavorable impact of 2.6% and 2.3% in fiscal years 2026 and 2025, respectively.
 Operating Expenses
 | Year Ended
-| Jan 25, 2026 | Jan 26, 2025 | $
-Change | %
-Change
+| Jan 25, 2026 | Jan 26, 2025 | $ Change | % Change
 | ($ in millions)
 | Research and development | $ | 18,497 | $ | 12,914 | $ | 5,583 | 43 | %
 | Sales, general and administrative | 4,579 | 3,491 | 1,088 | 31 | %
@@ -755,15 +694,12 @@ Table of Contents
 The increases in sales, general and administrative expenses for fiscal year 2026 were primarily driven by compensation and benefits expense, including stock-based compensation, reflecting employee growth and compensation increases.
 Total Other Income, Net
 | Year Ended
-| Jan 25, 2026 | Jan 26, 2025 | $
-Change |
+| Jan 25, 2026 | Jan 26, 2025 | $ Change |
 | ($ in millions)
 | Interest income | $ | 2,300 | $ | 1,786 | $ | 514 |
 | Interest expense | (259) | (247) | (12) |
-Other income, net
-| 9,022 | 1,034 | 7,988 |
-Total other income, net
-| $ | 11,063 | $ | 2,573 | $ | 8,490 |
+| Other income, net | 9,022 | 1,034 | 7,988 |
+| Total other income, net | $ | 11,063 | $ | 2,573 | $ | 8,490 |
 The increase in interest income was primarily due to growth in cash, cash equivalents, and debt securities.
 Interest expense is primarily comprised of coupon interest and debt discount amortization related to our notes.
 Other income, net primarily consists of realized or unrealized gains and losses from investments in non-marketable equity securities, publicly-held equity securities, and the impact of changes in foreign currency rates. The change in Other income, net, compared to fiscal year 2025, was primarily driven by unrealized gains in non-marketable and publicly-held equity securities, including gains from our previously announced investment in Intel’s common stock. Refer to Note 7 and 8 of the Notes to the Consolidated Financial Statements in Part IV, Item 15 of this Annual Report on Form 10-K for additional information regarding our non-marketable equity securities.
@@ -812,8 +748,7 @@ Our aggregate debt maturities as of January 25, 2026, by year payable, are as fo
 | Due in five to ten years | 1,250 |
 | Due in greater than ten years | 3,500 |
 | Unamortized debt discount and issuance costs | (32) |
-Net carrying amount
-| $ | 8,468 |
+| Net carrying amount | $ | 8,468 |
 | Less short-term portion | 999 |
 | Total long-term portion | $ | 7,469 |
 In January 2026, we increased the amount of our commercial paper program, pursuant to which we may issue unsecured commercial paper notes from time to time or all at once up to $25.0 billion. As of January 25, 2026, no commercial paper was outstanding. We will continue to evaluate issuing commercial paper as a component of our overall liquidity strategy.
@@ -862,15 +797,8 @@ Our management, including our Chief Executive Officer and Chief Financial Office
 Item 9B. Other Information
 The following members of our Board of Directors and/or officers adopted, modified or terminated a trading arrangement that is intended to satisfy the affirmative defense conditions of Rule 10b5-1(c), or a Rule 10b5-1 Trading Arrangement:
 | Name | Title of Director or Officer | Action | Date | Total Shares of Common Stock to be Sold | Expiration Date
-John O. Dabiri
-Director
-| Adoption | 12/10/2025 |
-3,984*
-| 12/7/2026
-Colette M. Kress
-Executive Vice President and Chief Financial Officer
-Adoption
-| 12/18/2025 | 500,000 | 3/23/2027
+| John O. Dabiri | Director | Adoption | 12/10/2025 | 3,984* | 12/7/2026
+| Colette M. Kress | Executive Vice President and Chief Financial Officer | Adoption | 12/18/2025 | 500,000 | 3/23/2027
 *Estimated assuming our closing stock price as of January 23, 2026. The number of shares is based on an estimate because the plan specifies a formulaic dollar amount of shares to be sold.
 Item 9C. Disclosure Regarding Foreign Jurisdictions that Prevent Inspections
 Not Applicable.
@@ -910,26 +838,17 @@ Part IV
 Item 15. Exhibits and Financial Statement Schedules
 | Page
 | (a) | 1. | Financial Statements |
-Report of Independent Registered Public Accounting Firm (PCAOB ID: 238)
-49
-Consolidated Statements of Income for the years ended January 25, 2026, January 26, 2025, and January 28, 2024
-51
-Consolidated Statements of Comprehensive Income for the years ended January 25, 2026, January 26, 2025, and January 28, 2024
-52
-Consolidated Balance Sheets as of January 25, 2026 and January 26, 2025
-53
-Consolidated Statements of Shareholders’ Equity for the years ended January 25, 2026, January 26, 2025, and January 28, 2024
-54
-Consolidated Statements of Cash Flows for the years ended January 25, 2026, January 26, 2025, and January 28, 2024
-55
-Notes to the Consolidated Financial Statements
-56
+| Report of Independent Registered Public Accounting Firm (PCAOB ID: 238) | 49
+| Consolidated Statements of Income for the years ended January 25, 2026, January 26, 2025, and January 28, 2024 | 51
+| Consolidated Statements of Comprehensive Income for the years ended January 25, 2026, January 26, 2025, and January 28, 2024 | 52
+| Consolidated Balance Sheets as of January 25, 2026 and January 26, 2025 | 53
+| Consolidated Statements of Shareholders’ Equity for the years ended January 25, 2026, January 26, 2025, and January 28, 2024 | 54
+| Consolidated Statements of Cash Flows for the years ended January 25, 2026, January 26, 2025, and January 28, 2024 | 55
+| Notes to the Consolidated Financial Statements | 56
 | 2. | Financial Statement Schedule |
-Schedule II Valuation and Qualifying Accounts for the years ended January 25, 2026, January 26, 2025, and January 28, 2024
-81
+| Schedule II Valuation and Qualifying Accounts for the years ended January 25, 2026, January 26, 2025, and January 28, 2024 | 81
 | 3. | Exhibits |
-The exhibits listed in the accompanying index to exhibits are filed or incorporated by reference as a part of this Annual Report on Form 10-K.
-82
+| The exhibits listed in the accompanying index to exhibits are filed or incorporated by reference as a part of this Annual Report on Form 10-K. | 82
 48
 Table of Contents
 Report of Independent Registered Public Accounting Firm
@@ -973,10 +892,8 @@ Consolidated Statements of Income
 | Operating income | 130,387 | 81,453 | 32,972 |
 | Interest income | 2,300 | 1,786 | 866 |
 | Interest expense | (259) | (247) | (257) |
-Other income, net
-| 9,022 | 1,034 | 237 |
-Total other income, net
-| 11,063 | 2,573 | 846 |
+| Other income, net | 9,022 | 1,034 | 237 |
+| Total other income, net | 11,063 | 2,573 | 846 |
 | Income before income tax | 141,450 | 84,026 | 33,818 |
 | Income tax expense | 21,383 | 11,146 | 4,058 |
 | Net income | $ | 120,067 | $ | 72,880 | $ | 29,760 |
@@ -1022,8 +939,7 @@ Consolidated Balance Sheets
 | Goodwill | 20,832 | 5,188 |
 | Intangible assets, net | 3,306 | 807 |
 | Deferred income tax assets | 13,258 | 10,979 |
-Non-marketable equity securities
-| 22,251 | 3,387 |
+| Non-marketable equity securities | 22,251 | 3,387 |
 | Other assets | 8,301 | 3,038 |
 | Total assets | $ | 206,803 | $ | 111,601 |
 | Liabilities and Shareholders' Equity |
@@ -1036,13 +952,10 @@ Non-marketable equity securities
 | Long-term operating lease liabilities | 2,572 | 1,519 |
 | Other long-term liabilities | 7,306 | 4,245 |
 | Total liabilities | 49,510 | 32,274 |
-Commitments and contingencies - see Note 12
-| — | — |
+| Commitments and contingencies - see Note 12 | — | — |
 | Shareholders’ equity: |
-Preferred stock, $0.001 par value; 2 shares authorized; none issued
-| — | — |
-Common stock, $0.001 par value; 80,000 shares authorized; 24,304 shares issued and outstanding as of January 25, 2026; 24,477 shares issued and outstanding as of January 26, 2025
-| 24 | 24 |
+| Preferred stock, $0.001 par value; 2 shares authorized; none issued | — | — |
+| Common stock, $0.001 par value; 80,000 shares authorized; 24,304 shares issued and outstanding as of January 25, 2026; 24,477 shares issued and outstanding as of January 26, 2025 | 24 | 24 |
 | Additional paid-in capital | 10,118 | 11,237 |
 | Accumulated other comprehensive income | 178 | 28 |
 | Retained earnings | 146,973 | 68,038 |
@@ -1053,51 +966,35 @@ See accompanying Notes to the Consolidated Financial Statements.
 Table of Contents
 NVIDIA Corporation and Subsidiaries
 Consolidated Statements of Shareholders' Equity
-| Common Stock
-Outstanding | Additional Paid-in | Accumulated Other Comprehensive | Retained | Total Shareholders'
+| Common Stock Outstanding | Additional Paid-in | Accumulated Other Comprehensive | Retained | Total Shareholders'
 | Shares | Amount | Capital | Income (Loss) | Earnings | Equity
 | (In millions, except per share data) |
-Balances as of Jan 29, 2023
-| 24,661 | $ | 25 | $ | 11,948 | $ | (43) | $ | 10,171 | $ | 22,101 |
+| Balances as of Jan 29, 2023 | 24,661 | $ | 25 | $ | 11,948 | $ | (43) | $ | 10,171 | $ | 22,101 |
 | Net income | — | — | — | — | 29,760 | 29,760 |
 | Other comprehensive income | — | — | — | 70 | — | 70 |
-Issuance of common stock
-| 265 | — | 403 | — | — | 403 |
-Tax withholding related to common stock
-| (72) | — | (2,783) | — | — | (2,783) |
+| Issuance of common stock | 265 | — | 403 | — | — | 403 |
+| Tax withholding related to common stock | (72) | — | (2,783) | — | — | (2,783) |
 | Shares repurchased | (211) | — | (27) | — | (9,719) | (9,746) |
-Cash dividends declared and paid ($0.016 per common share)
-| — | — | — | — | (395) | (395) |
+| Cash dividends declared and paid ($0.016 per common share) | — | — | — | — | (395) | (395) |
 | Stock-based compensation | — | — | 3,568 | — | — | 3,568 |
-Balances as of Jan 28, 2024
-| 24,643 | 25 | 13,109 | 27 | 29,817 | 42,978 |
+| Balances as of Jan 28, 2024 | 24,643 | 25 | 13,109 | 27 | 29,817 | 42,978 |
 | Net income | — | — | — | — | 72,880 | 72,880 |
 | Other comprehensive income | — | — | — | 1 | — | 1 |
-Issuance of common stock
-| 203 | — | 490 | — | — | 490 |
-Tax withholding related to common stock
-| (59) | — | (6,930) | — | — | (6,930) |
+| Issuance of common stock | 203 | — | 490 | — | — | 490 |
+| Tax withholding related to common stock | (59) | — | (6,930) | — | — | (6,930) |
 | Shares repurchased | (310) | (1) | (189) | — | (33,825) | (34,015) |
-Cash dividends declared and paid ($0.034 per common share)
-| — | — | — | — | (834) | (834) |
+| Cash dividends declared and paid ($0.034 per common share) | — | — | — | — | (834) | (834) |
 | Stock-based compensation | — | — | 4,757 | — | — | 4,757 |
-Balances as of Jan 26, 2025
-| 24,477 | 24 | 11,237 | 28 | 68,038 | 79,327 |
+| Balances as of Jan 26, 2025 | 24,477 | 24 | 11,237 | 28 | 68,038 | 79,327 |
 | Net income | — | — | — | — | 120,067 | 120,067 |
 | Other comprehensive income | — | — | — | 150 | — | 150 |
-Issuance of common stock
-| 160 | — | 644 | — | — | 644 |
-Tax withholding related to common stock
-| (51) | — | (7,948) | — | — | (7,948) |
+| Issuance of common stock | 160 | — | 644 | — | — | 644 |
+| Tax withholding related to common stock | (51) | — | (7,948) | — | — | (7,948) |
 | Shares repurchased | (282) | — | (230) | — | (40,158) | (40,388) |
-Cash dividends declared and paid ($0.04 per common share)
-| — | — | — | — | (974) | (974) |
-Fair value of partially vested equity awards assumed in connection with
-acquisitions
-| — | — | 28 | — | — | 28 |
+| Cash dividends declared and paid ($0.04 per common share) | — | — | — | — | (974) | (974) |
+| Fair value of partially vested equity awards assumed in connection with acquisitions | — | — | 28 | — | — | 28 |
 | Stock-based compensation | — | — | 6,387 | — | — | 6,387 |
-Balances as of Jan 25, 2026
-| 24,304 | $ | 24 | $ | 10,118 | $ | 178 | $ | 146,973 | $ | 157,293 |
+| Balances as of Jan 25, 2026 | 24,304 | $ | 24 | $ | 10,118 | $ | 178 | $ | 146,973 | $ | 157,293 |
 See accompanying Notes to the Consolidated Financial Statements.
 54
 Table of Contents
@@ -1128,19 +1025,15 @@ Consolidated Statements of Cash Flows
 | Proceeds from sales of non-marketable equity securities | 84 | 171 | 1 |
 | Purchases of marketable securities | (40,616) | (26,575) | (18,211) |
 | Purchases of non-marketable equity securities | (17,502) | (1,486) | (862) |
-Groq, Inc.
-| (13,000) | — | — |
+| Groq, Inc. | (13,000) | — | — |
 | Purchases related to property and equipment and intangible assets | (6,042) | (3,236) | (1,069) |
-Acquisitions, net of cash acquired
-| (1,535) | (1,007) | (83) |
+| Acquisitions, net of cash acquired | (1,535) | (1,007) | (83) |
 | Other | — | 22 | (124) |
 | Net cash used in investing activities | (52,228) | (20,421) | (10,566) |
 | Cash flows from financing activities: |
 | Proceeds related to employee stock plans | 644 | 490 | 403 |
-Payments related to repurchases of common stock
-| (40,086) | (33,706) | (9,533) |
-Payments related to employee stock plan taxes
-| (7,948) | (6,930) | (2,783) |
+| Payments related to repurchases of common stock | (40,086) | (33,706) | (9,533) |
+| Payments related to employee stock plan taxes | (7,948) | (6,930) | (2,783) |
 | Dividends paid | (974) | (834) | (395) |
 | Principal payments on property and equipment and intangible assets | (101) | (129) | (74) |
 | Repayment of debt | — | (1,250) | (1,250) |
@@ -1270,11 +1163,11 @@ The following is a summary of equity awards granted under our equity incentive p
 | Year Ended
 | Jan 25, 2026 | Jan 26, 2025 | Jan 28, 2024
 | (In millions, except per share data)
-RSUs, PSUs and Market-based PSUs
+| RSUs, PSUs and Market-based PSUs |
 | Awards granted | 70 | 89 | 140 |
 | Estimated total grant-date fair value | $ | 9,389 | $ | 7,834 | $ | 5,316 |
 | Weighted average grant-date fair value per share | $ | 133.97 | $ | 87.99 | $ | 37.41 |
-ESPP
+| ESPP |
 | Shares purchased | 13 | 30 | 30 |
 | Weighted average price per share | $ | 49.13 | $ | 17.74 | $ | 15.81 |
 | Weighted average grant-date fair value per share | $ | 20.75 | $ | 8.61 | $ | 6.99 |
@@ -1288,23 +1181,11 @@ The fair value of shares issued under our ESPP has been estimated with the follo
 | Year Ended
 | Jan 25, 2026 | Jan 26, 2025 | Jan 28, 2024
 | (Using the Black-Scholes model)
-ESPP
-| Weighted average expected life (in years) |
-0.1-2.0
-0.1-2.0
-0.1-2.0
-| Risk-free interest rate |
-3.5%-4.3%
-3.6%-5.4%
-3.9%-5.5%
-| Volatility |
-26%-96%
-31%-75%
-31%-67%
-| Dividend yield |
-0.03%
-0.03%
-0.06%
+| ESPP |
+| Weighted average expected life (in years) | 0.1-2.0 | 0.1-2.0 | 0.1-2.0
+| Risk-free interest rate | 3.5%-4.3% | 3.6%-5.4% | 3.9%-5.5%
+| Volatility | 26%-96% | 31%-75% | 31%-67%
+| Dividend yield | 0.03% | 0.03% | 0.06%
 For ESPP shares, the expected term represents the average term from the first day of the offering period to the purchase date. The risk-free interest rate assumption used to value ESPP shares is based upon observed interest rates on Treasury bills appropriate for the expected term. Our expected stock price volatility assumption for ESPP is estimated using historical volatility. For awards granted, we use the dividend yield at grant date. Our RSUs, PSUs, and market-based PSUs are not eligible for cash dividends prior to vesting; therefore, the fair values of RSUs, PSUs, and market-based PSUs are discounted for the dividend yield.
 Additionally, for RSUs, PSUs, and market-based PSUs, we estimate expected forfeitures based on our historical forfeitures.
 Equity Incentive Program
@@ -1322,18 +1203,14 @@ Notes to the Consolidated Financial Statements
 Equity Award Activity
 The following is a summary of our equity award transactions under our equity incentive plans:
 | RSUs, PSUs and Market-based PSUs Outstanding
-| Number of Shares |
-Weighted Average Grant-Date Fair Value Per Share
+| Number of Shares | Weighted Average Grant-Date Fair Value Per Share
 | (In millions, except per share data)
-Balance as of Jan 26, 2025
-| 274 | $ | 44.75 |
+| Balance as of Jan 26, 2025 | 274 | $ | 44.75 |
 | Granted | 70 | $ | 133.97 |
 | Vested | (146) | $ | 39.14 |
 | Canceled and forfeited | (9) | $ | 59.29 |
-Balance as of Jan 25, 2026
-| 189 | $ | 81.51 |
-Vested and expected to vest after Jan 25, 2026
-| 188 | $ | 81.15 |
+| Balance as of Jan 25, 2026 | 189 | $ | 81.51 |
+| Vested and expected to vest after Jan 25, 2026 | 188 | $ | 81.15 |
 As of January 25, 2026 and January 26, 2025, there were 1.3 billion and 1.4 billion shares, respectively, of common stock available for future grants under our equity incentive plans.
 The total fair value of RSUs and PSUs, as of their respective vesting dates, during the years ended January 25, 2026, January 26, 2025, and January 28, 2024, was $22.2 billion, $15.1 billion, and $8.2 billion, respectively.
 Note 4 - Net Income Per Share
@@ -1350,8 +1227,7 @@ The following is the basic and diluted net income per share computations for the
 | Net income per share: |
 | Basic (1) | $ | 4.93 | $ | 2.97 | $ | 1.21 |
 | Diluted (2) | $ | 4.90 | $ | 2.94 | $ | 1.19 |
-Anti-dilutive equity awards excluded from diluted net income per share
-| 41 | 51 | 150 |
+| Anti-dilutive equity awards excluded from diluted net income per share | 41 | 51 | 150 |
 (1) Net income divided by basic weighted average shares.
 (2) Net income divided by diluted weighted average shares.
 Note 5 - Goodwill
@@ -1364,17 +1240,7 @@ Notes to the Consolidated Financial Statements
 Note 6 - Amortizable Intangible Assets
 The components of our amortizable intangible assets are as follows:
 | Jan 25, 2026 | Jan 26, 2025
-| Gross
-Carrying
-Amount | Accumulated
-Amortization | Net
-Carrying
-Amount | Gross
-Carrying
-Amount | Accumulated
-Amortization | Net
-Carrying
-Amount
+| Gross Carrying Amount | Accumulated Amortization | Net Carrying Amount | Gross Carrying Amount | Accumulated Amortization | Net Carrying Amount
 | (In millions)
 | Acquisition-related intangible assets | $ | 5,656 | $ | (2,580) | $ | 3,076 | $ | 2,900 | $ | (2,264) | $ | 636 |
 | Patents and licensed technology | 528 | (298) | 230 | 449 | (278) | 171 |
@@ -1399,15 +1265,8 @@ Notes to the Consolidated Financial Statements
 Note 7 - Cash Equivalents and Marketable Securities
 The fair values of our financial assets are determined using quoted market prices of identical assets or market prices of similar assets from active markets. We review fair value classification on a quarterly basis. The following is a summary of cash equivalents and marketable securities:
 | Jan 25, 2026 |
-| Pricing Category |
-Cost or Amortized
-Cost
-| Unrealized
-Gain | Unrealized
-Loss | Estimated
-Fair Value | Reported as
-| Cash Equivalents | Marketable Securities |
-Other Assets
+| Pricing Category | Cost or Amortized Cost | Unrealized Gain | Unrealized Loss | Estimated Fair Value | Reported as
+| Cash Equivalents | Marketable Securities | Other Assets
 | (In millions)
 | Debt securities issued by the U.S. Treasury | Level 2 | $ | 21,635 | $ | 77 | $ | (3) | $ | 21,709 | $ | — | $ | 21,709 | $ | — |
 | Corporate debt securities | Level 2 | 15,410 | 92 | (3) | 15,499 | 345 | 15,154 | — |
@@ -1415,8 +1274,7 @@ Other Assets
 | Certificates of deposit | Level 2 | 110 | — | — | 110 | 110 | — | — |
 | Foreign government bonds | Level 2 | 40 | 1 | — | 41 | — | 41 | — |
 | Money market funds | Level 1 | 7,830 | — | — | 7,830 | 7,830 | — | — |
-Publicly-held equity securities (1) (2)
-| Level 1 | 17,726 | — | 12,886 | 4,840 |
+| Publicly-held equity securities (1) (2) | Level 1 | 17,726 | — | 12,886 | 4,840 |
 | Total | $ | 47,182 | $ | 174 | $ | (6) | $ | 65,076 | $ | 8,285 | $ | 51,951 | $ | 4,840 |
 (1) In the first quarter of fiscal year 2026, one investment was reclassified from non-marketable equity securities to marketable securities following public market trading. The balance as of January 25, 2026 includes $10.5 billion of investments which are subject to short-term lock-up restrictions on the ability to sell.
 (2) The long-term portion of marketable equity securities, which are subject to lock-up restrictions through December 2027 of $4.8 billion as of January 25, 2026, is included in other assets.
@@ -1428,11 +1286,7 @@ NVIDIA Corporation and Subsidiaries
 Notes to the Consolidated Financial Statements
 (Continued)
 | Jan 26, 2025
-| Pricing Category | Cost or Amortized
-Cost | Unrealized
-Gain | Unrealized
-Loss | Estimated
-Fair Value | Reported as
+| Pricing Category | Cost or Amortized Cost | Unrealized Gain | Unrealized Loss | Estimated Fair Value | Reported as
 | Cash Equivalents | Marketable Securities
 | (In millions)
 | Corporate debt securities | Level 2 | $ | 18,504 | $ | 51 | $ | (29) | $ | 18,526 | $ | 2,071 | $ | 16,455 |
@@ -1441,8 +1295,7 @@ Fair Value | Reported as
 | Foreign government bonds | Level 2 | 177 | — | — | 177 | 137 | 40 |
 | Certificates of deposit | Level 2 | 97 | — | — | 97 | 97 | — |
 | Money market funds | Level 1 | 3,760 | — | — | 3,760 | 3,760 | — |
-Publicly-held equity securities
-| Level 1 | 381 | — | 381 |
+| Publicly-held equity securities | Level 1 | 381 | — | 381 |
 | Total | $ | 42,062 | $ | 100 | $ | (56) | $ | 42,487 | $ | 7,866 | $ | 34,621 |
 The following tables provide the breakdown of unrealized losses, aggregated by investment category and length of time that individual debt securities have been in a continuous loss position:
 | Jan 25, 2026 | Jan 26, 2025
@@ -1476,8 +1329,7 @@ Adjustments to the carrying value of our non-marketable equity securities during
 | Adjustments related to non-marketable equity securities: |
 | Net additions | 17,444 | 1,309 |
 | Unrealized gains | 2,369 | 816 |
-Reclassification (1)
-| (848) | — |
+| Reclassification (1) | (848) | — |
 | Impairments and unrealized losses | (101) | (59) |
 | Balance at end of period | $ | 22,251 | $ | 3,387 |
 (1) Represents reclassifications from non-marketable equity securities to marketable securities following public market trading.
@@ -1486,22 +1338,17 @@ Note 9 - Balance Sheet Components
 We refer to customers who purchase products directly from NVIDIA as direct customers, such as AIBs, distributors, ODMs, OEMs, CSPs, AI model makers, and system integrators. Certain direct customers may use either internal resources or third-party system integrators to complete their build. Three direct customers accounted for 25%, 18%, and 13% of our accounts receivable balance as of January 25, 2026. Two direct customers accounted for 17% and 16% of our accounts receivable balance as of January 26, 2025.
 Certain balance sheet components are as follows:
 | Jan 25, 2026 | Jan 26, 2025
-Inventories:
-| (In millions)
+| Inventories: | (In millions)
 | Raw materials | $ | 3,807 | $ | 3,408 |
 | Work in process | 8,822 | 3,399 |
 | Finished goods | 8,774 | 3,273 |
 | Total inventories (1) | $ | 21,403 | $ | 10,080 |
 (1) In fiscal years 2026 and 2025, we recorded inventory provisions of $4.0 billion and $1.6 billion, respectively, in cost of revenue.
-| Jan 25, 2026 | Jan 26, 2025 | Estimated
-Useful Life
-Property and Equipment:
-| (In millions) | (In years)
+| Jan 25, 2026 | Jan 26, 2025 | Estimated Useful Life
+| Property and Equipment: | (In millions) | (In years)
 | Land | $ | 777 | $ | 511 | (A)
 | Buildings, leasehold improvements, and furniture | 2,891 | 2,076 | (B)
-Equipment, compute hardware, and software
-| 12,619 | 7,568 |
-2-7
+| Equipment, compute hardware, and software | 12,619 | 7,568 | 2-7
 | Construction in process | 683 | 529 | (C)
 | Total property and equipment, gross | 16,970 | 10,684 |
 | Accumulated depreciation and amortization | (6,587) | (4,401) |
@@ -1518,13 +1365,10 @@ Depreciation expense for fiscal years 2026, 2025, and 2024 was $2.4 billion, $1.
 Accumulated amortization of leasehold improvements and finance leases was $519 million and $410 million as of January 25, 2026 and January 26, 2025, respectively.
 Property, equipment and intangible assets acquired but not paid for during fiscal years 2026, 2025, and 2024 were $820 million, $525 million, and $170 million, respectively.
 | Jan 25, 2026 | Jan 26, 2025
-Accrued and Other Current Liabilities:
-| (In millions)
+| Accrued and Other Current Liabilities: | (In millions)
 | Customer program accruals | $ | 5,318 | $ | 4,880 |
-Accrued purchase consideration
-| 3,921 | 9 |
-Product warranty
-| 2,807 | 1,290 |
+| Accrued purchase consideration | 3,921 | 9 |
+| Product warranty | 2,807 | 1,290 |
 | Excess inventory purchase obligations (1) | 2,739 | 2,095 |
 | Taxes payable | 2,669 | 881 |
 | Deferred revenue (2) | 1,379 | 837 |
@@ -1534,8 +1378,7 @@ Product warranty
 (1)In fiscal years 2026 and 2025, we recorded an expense of approximately $3.2 billion and $2.0 billion, respectively, in cost of revenue.
 (2)Includes customer advances and unearned revenue related to hardware and software support, cloud services, and license and development arrangements. The balance as of January 25, 2026 and January 26, 2025 included $160 million and $81 million of customer advances, respectively.
 | Jan 25, 2026 | Jan 26, 2025
-Other Long-Term Liabilities:
-| (In millions)
+| Other Long-Term Liabilities: | (In millions)
 | Income tax payable (1) | $ | 3,958 | $ | 2,188 |
 | Deferred income tax | 1,774 | 886 |
 | Deferred revenue (2) | 1,193 | 976 |
@@ -1579,24 +1422,15 @@ NVIDIA Corporation and Subsidiaries
 Notes to the Consolidated Financial Statements
 (Continued)
 Note 11 - Debt
-| Expected
-Remaining Term (years) | Effective
-Interest Rate | Jan 25, 2026 | Jan 26, 2025
+| Expected Remaining Term (years) | Effective Interest Rate | Jan 25, 2026 | Jan 26, 2025
 | (In millions)
-3.20% Notes Due 2026
-| 0.6 | 3.31% | 1,000 | 1,000 |
-1.55% Notes Due 2028
-| 2.4 | 1.64% | 1,250 | 1,250 |
-2.85% Notes Due 2030
-| 4.2 | 2.93% | 1,500 | 1,500 |
-2.00% Notes Due 2031
-| 5.4 | 2.09% | 1,250 | 1,250 |
-3.50% Notes Due 2040
-| 14.2 | 3.54% | 1,000 | 1,000 |
-3.50% Notes Due 2050
-| 24.2 | 3.54% | 2,000 | 2,000 |
-3.70% Notes Due 2060
-| 34.2 | 3.73% | 500 | 500 |
+| 3.20% Notes Due 2026 | 0.6 | 3.31% | 1,000 | 1,000 |
+| 1.55% Notes Due 2028 | 2.4 | 1.64% | 1,250 | 1,250 |
+| 2.85% Notes Due 2030 | 4.2 | 2.93% | 1,500 | 1,500 |
+| 2.00% Notes Due 2031 | 5.4 | 2.09% | 1,250 | 1,250 |
+| 3.50% Notes Due 2040 | 14.2 | 3.54% | 1,000 | 1,000 |
+| 3.50% Notes Due 2050 | 24.2 | 3.54% | 2,000 | 2,000 |
+| 3.70% Notes Due 2060 | 34.2 | 3.73% | 500 | 500 |
 | Unamortized debt discount and issuance costs | (32) | (37) |
 | Net carrying amount | 8,468 | 8,463 |
 | Less short-term portion | (999) | — |
@@ -1674,28 +1508,21 @@ The income tax expense (benefit) differs from the amount computed by applying th
 | Year Ended
 | Jan 25, 2026 |
 | (In millions, except percentages)
-US Federal Statutory Tax Rate
-| $ | 29,704 | 21.0 | % |
+| US Federal Statutory Tax Rate | $ | 29,704 | 21.0 | % |
 | State and Local Income Taxes, Net of Federal Income Tax Effect (1) | 258 | 0.2 | % |
 | Foreign tax effects |
 | Israel |
-Reduced statutory tax rate on qualifying income
-| (3,064) | (2.2) | % |
-Other
-| 1,606 | 1.2 | % |
-Other foreign jurisdictions
-| 741 | 0.5 | % |
+| Reduced statutory tax rate on qualifying income | (3,064) | (2.2) | % |
+| Other | 1,606 | 1.2 | % |
+| Other foreign jurisdictions | 741 | 0.5 | % |
 | Effect of cross-border tax laws |
 | Foreign-derived deduction eligible income | (4,208) | (3.0) | % |
-Other
-| (142) | (0.1) | % |
+| Other | (142) | (0.1) | % |
 | Tax credits | (1,933) | (1.4) | % |
 | Nontaxable or nondeductible items |
 | Stock-based compensation | (1,475) | (1.0) | % |
-Other
-| 29 | — | % |
-Other (2)
-| (133) | (0.1) | % |
+| Other | 29 | — | % |
+| Other (2) | (133) | (0.1) | % |
 | Income tax expense | $ | 21,383 | 15.1 | % |
 (1) State taxes in California, Tennessee, Arizona, and Illinois made up the majority of the tax effect in fiscal year 2026.
 (2) Includes the tax effects of enactment of new tax laws, change in valuation allowance, and change in unrecognized tax benefits.
@@ -1716,27 +1543,20 @@ The income tax expense (benefit) differs from the amount computed by applying th
 | U.S. federal research and development tax credit | (990) | (1.2) | % | (431) | (1.3) | %
 | Foreign tax rate differential | (984) | (1.2) | % | (467) | (1.4) | %
 | Other | (6) | — | % | (117) | (0.3) | %
-Income tax expense
-| $ | 11,146 | 13.3 | % | $ | 4,058 | 12.0 | %
+| Income tax expense | $ | 11,146 | 13.3 | % | $ | 4,058 | 12.0 | %
 In July 2025, the OBBBA was enacted into law and contains several changes to key U.S. federal income tax laws. We have recognized the tax effects of currently effective OBBBA provisions in our results for fiscal year 2026.
 The amount of cash paid for income taxes (net of refunds) for the fiscal year ended January 25, 2026 is as follows:
 | Year Ended
 | Jan 25, 2026 |
 | (In millions)
-Federal
-| $ | 16,755 |
-State
-California
-| 1,049 |
-Other
-| 1,041 |
-Foreign
-Israel
-| 1,287 |
-Other
-| 156 |
-Total income taxes paid, net of refunds
-| $ | 20,288 |
+| Federal | $ | 16,755 |
+| State |
+| California | 1,049 |
+| Other | 1,041 |
+| Foreign |
+| Israel | 1,287 |
+| Other | 156 |
+| Total income taxes paid, net of refunds | $ | 20,288 |
 74
 Table of Contents
 NVIDIA Corporation and Subsidiaries
@@ -1747,8 +1567,7 @@ The tax effect of temporary differences that gives rise to significant portions 
 | (In millions)
 | Deferred tax assets: |
 | Capitalized research and development expenditure | $ | 5,436 | $ | 6,256 |
-Net controlled foreign corporation tested income deferred tax assets
-| 5,389 | 2,820 |
+| Net controlled foreign corporation tested income deferred tax assets | 5,389 | 2,820 |
 | Accruals and reserves, not currently deductible for tax purposes | 3,644 | 2,058 |
 | Research and other tax credit carryforwards | 718 | 759 |
 | Operating lease liabilities | 554 | 299 |
@@ -1808,20 +1627,17 @@ The Compute & Networking segment includes our Data Center accelerated computing 
 The Graphics segment includes GeForce GPUs for gaming and PCs, and Quadro/NVIDIA RTX GPUs for enterprise workstation graphics.
 Certain expenses are not allocated to either Compute & Networking or Graphics for purposes of making operating decisions or assessing financial performance. The expenses include stock-based compensation expense, corporate infrastructure and support costs, acquisition-related and other costs, and other non-recurring charges and benefits that our CODM deems to be enterprise in nature.
 Our CODM does not review any information regarding total assets on a reportable segment basis. There are no intersegment transactions. The accounting policies for segment reporting are the same as for our consolidated financial statements. The table below presents details of our reportable segments.
-Compute & Networking
-| Graphics |
-Total
+| Compute & Networking | Graphics | Total
 | (In millions)
-Year Ended Jan 25, 2026
+| Year Ended Jan 25, 2026 |
 | Revenue | $ | 193,479 | $ | 22,459 | $ | 215,938 |
 | Other segment items (1) | 63,338 | 13,303 | 76,641 |
-Operating income
-| $ | 130,141 | $ | 9,156 | $ | 139,297 |
-Year Ended Jan 26, 2025
+| Operating income | $ | 130,141 | $ | 9,156 | $ | 139,297 |
+| Year Ended Jan 26, 2025 |
 | Revenue | $ | 116,193 | $ | 14,304 | $ | 130,497 |
 | Other segment items (1) | 33,318 | 9,219 | 42,537 |
 | Operating income | $ | 82,875 | $ | 5,085 | $ | 87,960 |
-Year Ended Jan 28, 2024
+| Year Ended Jan 28, 2024 |
 | Revenue | $ | 47,405 | $ | 13,517 | $ | 60,922 |
 | Other segment items (1) | 15,389 | 7,671 | 23,060 |
 | Operating income | $ | 32,016 | $ | 5,846 | $ | 37,862 |
@@ -1836,31 +1652,22 @@ A reconciliation of segment operating income to consolidated income before incom
 | Year Ended
 | Jan 25, 2026 | Jan 26, 2025 | Jan 28, 2024
 | (In millions)
-Segment operating income
-| $ | 139,297 | $ | 87,960 | $ | 37,862 |
+| Segment operating income | $ | 139,297 | $ | 87,960 | $ | 37,862 |
 | Stock-based compensation expense | (6,386) | (4,737) | (3,549) |
-Unallocated operating expenses
-| (1,997) | (1,171) | (728) |
+| Unallocated operating expenses | (1,997) | (1,171) | (728) |
 | Acquisition-related and other costs | (527) | (599) | (613) |
-Interest income
-| 2,300 | 1,786 | 866 |
-Interest expense
-| (259) | (247) | (257) |
-Other income, net
-| 9,022 | 1,034 | 237 |
-Consolidated income before income tax
-| $ | 141,450 | $ | 84,026 | $ | 33,818 |
+| Interest income | 2,300 | 1,786 | 866 |
+| Interest expense | (259) | (247) | (257) |
+| Other income, net | 9,022 | 1,034 | 237 |
+| Consolidated income before income tax | $ | 141,450 | $ | 84,026 | $ | 33,818 |
 Revenue by geographic area is based upon the location of the customers’ headquarters. The end customer and shipping location may be different from our customers' headquarters location.
 | Year Ended
 | Jan 25, 2026 | Jan 26, 2025 | Jan 28, 2024
-Geographic Revenue based upon Customer Headquarters Location (1):
-| (In millions)
+| Geographic Revenue based upon Customer Headquarters Location (1): | (In millions)
 | United States | $ | 149,617 | $ | 77,482 | $ | 31,533 |
-Taiwan (2)
-| 42,345 | 23,600 | 14,912 |
+| Taiwan (2) | 42,345 | 23,600 | 14,912 |
 | China (including Hong Kong) | 19,677 | 25,048 | 12,330 |
-Other
-| 4,299 | 4,367 | 2,147 |
+| Other | 4,299 | 4,367 | 2,147 |
 | Total revenue | $ | 215,938 | $ | 130,497 | $ | 60,922 |
 (1)In the third quarter of fiscal year 2026, we changed to revenue based upon the location of our customers’ headquarters as we believe it provides a better representation of the geographic profile of our revenue. Prior period information has been recast to reflect this change.
 (2)In fiscal year 2026, we estimate 76% of Data Center revenue from Taiwan-headquartered customers was attributed to end customers based in the United States and Europe.
@@ -1877,8 +1684,7 @@ Notes to the Consolidated Financial Statements
 The following table summarizes revenue by specialized markets:
 | Year Ended
 | Jan 25, 2026 | Jan 26, 2025 | Jan 28, 2024
-Revenue by End Market:
-| (In millions)
+| Revenue by End Market: | (In millions)
 | Data Center | $ | 193,737 | $ | 115,186 | $ | 47,525 |
 | Compute | 162,361 | 102,196 | 38,950 |
 | Networking | 31,376 | 12,990 | 8,575 |
@@ -1889,8 +1695,7 @@ Revenue by End Market:
 | Total revenue | $ | 215,938 | $ | 130,497 | $ | 60,922 |
 The following table presents summarized information for long-lived assets by country. Long-lived assets consist of property and equipment and exclude other assets, operating lease assets, goodwill, and intangible assets.
 | Jan 25, 2026 | Jan 26, 2025
-Long-lived assets:
-| (In millions)
+| Long-lived assets: | (In millions)
 | United States | $ | 5,125 | $ | 3,626 |
 | Taiwan | 3,219 | 1,481 |
 | Israel | 1,471 | 840 |
@@ -1931,19 +1736,17 @@ As of January 25, 2026, our operating leases have a weighted average remaining l
 80
 NVIDIA Corporation and Subsidiaries
 Schedule II – Valuation and Qualifying Accounts
-| Description | Balance at
-Beginning of Period | Additions | Deductions | Balance at
-End of Period
+| Description | Balance at Beginning of Period | Additions | Deductions | Balance at End of Period
 | (In millions)
-Fiscal year 2026
+| Fiscal year 2026 |
 | Allowance for doubtful accounts | $ | 4 | $ | — | (1) | $ | — | (1) | $ | 4 |
 | Sales return allowance | $ | 82 | $ | 188 | (2) | $ | (100) | (4) | $ | 170 |
 | Deferred tax valuation allowance | $ | 1,610 | $ | 31 | (3) | $ | (873) | (3) | $ | 768 |
-Fiscal year 2025
+| Fiscal year 2025 |
 | Allowance for doubtful accounts | $ | 4 | $ | — | (1) | $ | — | (1) | $ | 4 |
 | Sales return allowance | $ | 109 | $ | 151 | (2) | $ | (178) | (4) | $ | 82 |
 | Deferred tax valuation allowance | $ | 1,552 | $ | 58 | (3) | $ | — | (3) | $ | 1,610 |
-Fiscal year 2024
+| Fiscal year 2024 |
 | Allowance for doubtful accounts | $ | 4 | $ | — | (1) | $ | — | (1) | $ | 4 |
 | Sales return allowance | $ | 26 | $ | 213 | (2) | $ | (130) | (4) | $ | 109 |
 | Deferred tax valuation allowance | $ | 1,484 | $ | 162 | (3) | $ | (94) | (3) | $ | 1,552 |
@@ -1955,132 +1758,52 @@ Fiscal year 2024
 Exhibit Index
 | Incorporated by Reference |
 | Exhibit No. | Exhibit Description | Schedule/Form | Exhibit | Filing Date
-| 3.1 |
-Restated Certificate of Incorporation
-| 10-K | 3.1 | 3/18/2022
-| 3.2 |
-Amendment to Restated Certificate of Incorporation of NVIDIA Corporation
-| 8-K | 3.1 | 6/6/2022
-| 3.3 |
-Amendment to Restated Certificate of Incorporation of NVIDIA Corporation
-| 8-K | 3.1 | 6/7/2024
-| 3.4 |
-Bylaws of NVIDIA Corporation, Amended and Restated as of March 12, 2024
-| 8-K | 3.1 | 3/14/2024
+| 3.1 | Restated Certificate of Incorporation | 10-K | 3.1 | 3/18/2022
+| 3.2 | Amendment to Restated Certificate of Incorporation of NVIDIA Corporation | 8-K | 3.1 | 6/6/2022
+| 3.3 | Amendment to Restated Certificate of Incorporation of NVIDIA Corporation | 8-K | 3.1 | 6/7/2024
+| 3.4 | Bylaws of NVIDIA Corporation, Amended and Restated as of March 12, 2024 | 8-K | 3.1 | 3/14/2024
 | 4.1 | Reference is made to Exhibits 3.1, 3.2, 3.3 and 3.4 |
-| 4.2 |
-Specimen Stock Certificate
-| S-1/A | 4.2 | 4/24/1998
-| 4.3 |
-Indenture, dated as of September 16, 2016, by and between the Company and Computershare Trust Company, N.A., as successor to Wells Fargo Bank, National Association, as Trustee
-| 8-K | 4.1 | 9/16/2016
-| 4.4 |
-Officers’ Certificate, dated as of September 16, 2016
-| 8-K | 4.2 | 9/16/2016
-| 4.5 |
-Form of 2026 Note
-| 8-K | Annex B-1 to Exhibit 4.2 | 9/16/2016
-4.6
-Description of Securities
-| 10-K | 4.6 | 2/26/2025
-| 4.7 |
-Officers’ Certificate, dated as of March 31, 2020
-| 8-K | 4.2 | 3/31/2020
-| 4.8 |
-Form of 2030 Note
-| 8-K | Annex A-1 to Exhibit 4.2 | 3/31/2020
-| 4.9 |
-Form of 2040 Note
-| 8-K | Annex B-1 to Exhibit 4.2 | 3/31/2020
-| 4.10 |
-Form of 2050 Note
-| 8-K | Annex C-1 to Exhibit 4.2 | 3/31/2020
-| 4.11 |
-Form of 2060 Note
-| 8-K | Annex D-1 to Exhibit 4.2 | 3/31/2020
-| 4.12 |
-Officers' Certificate, dated as of June 16, 2021
-| 8-K | 4.2 | 6/16/2021
-4.13
-Form of 2028 Note
-| 8-K | Annex C-1 to Exhibit 4.2 | 6/16/2021
-4.14
-Form of 2031 Note
-| 8-K | Annex D-1 to Exhibit 4.2 | 6/16/2021
-| 10.1 |
-Form of Indemnity Agreement between NVIDIA Corporation and each of its directors and officers
-| 8-K | 10.1 | 3/7/2006
-| 10.2+ |
-Amended and Restated 2007 Equity Incentive Plan
-| 10-Q | 10.1 | 8/28/2024
-| 10.3+ |
-Amended and Restated 2007 Equity Incentive Plan - Non-Employee Director Deferred Restricted Stock Unit Grant Notice and Deferred Restricted Stock Unit Agreement (2016)
-| 10-K | 10.26 | 3/12/2015
-| 10.4+ |
-Amended and Restated 2007 Equity Incentive Plan - Non-Employee Director Restricted Stock Unit Grant Notice and Restricted Stock Unit Agreement (2016)
-| 10-K | 10.27 | 3/12/2015
-| 10.5+ |
-Amended and Restated 2007 Equity Incentive Plan - Global Performance-Based Restricted Stock Unit Grant Notice and Performance-Based Restricted Stock Unit Agreement (2019)
-| 8-K | 10.1 | 3/11/2019
-10.6+
-Amended and Restated 2007 Equity Incentive Plan – Global Restricted Stock Unit Grant Notice and Global Restricted Stock Unit Agreement (2021)
-| 10-Q | 10.2 | 5/26/2021
-10.7+
-Amended and Restated 2007 Equity Incentive Plan – Global Restricted Stock Unit Grant Notice and Global Restricted Stock Unit Agreement (2022)
-| 10-K | 10.16 | 3/18/2022
-10.8+
-Amended and Restated 2007 Equity Incentive Plan – Global Restricted Stock Unit Grant Notice and Global Restricted Stock Unit Agreement (2023)
-| 10-K | 10.14 | 2/24/2023
-10.9+
-Amended and Restated 2007 Equity Incentive Plan – Global Restricted Stock Unit Grant Notice and Global Restricted Stock Unit Agreement (2024) (version 1)
-| 10-Q | 10.2 | 5/29/2024
+| 4.2 | Specimen Stock Certificate | S-1/A | 4.2 | 4/24/1998
+| 4.3 | Indenture, dated as of September 16, 2016, by and between the Company and Computershare Trust Company, N.A., as successor to Wells Fargo Bank, National Association, as Trustee | 8-K | 4.1 | 9/16/2016
+| 4.4 | Officers’ Certificate, dated as of September 16, 2016 | 8-K | 4.2 | 9/16/2016
+| 4.5 | Form of 2026 Note | 8-K | Annex B-1 to Exhibit 4.2 | 9/16/2016
+| 4.6 | Description of Securities | 10-K | 4.6 | 2/26/2025
+| 4.7 | Officers’ Certificate, dated as of March 31, 2020 | 8-K | 4.2 | 3/31/2020
+| 4.8 | Form of 2030 Note | 8-K | Annex A-1 to Exhibit 4.2 | 3/31/2020
+| 4.9 | Form of 2040 Note | 8-K | Annex B-1 to Exhibit 4.2 | 3/31/2020
+| 4.10 | Form of 2050 Note | 8-K | Annex C-1 to Exhibit 4.2 | 3/31/2020
+| 4.11 | Form of 2060 Note | 8-K | Annex D-1 to Exhibit 4.2 | 3/31/2020
+| 4.12 | Officers' Certificate, dated as of June 16, 2021 | 8-K | 4.2 | 6/16/2021
+| 4.13 | Form of 2028 Note | 8-K | Annex C-1 to Exhibit 4.2 | 6/16/2021
+| 4.14 | Form of 2031 Note | 8-K | Annex D-1 to Exhibit 4.2 | 6/16/2021
+| 10.1 | Form of Indemnity Agreement between NVIDIA Corporation and each of its directors and officers | 8-K | 10.1 | 3/7/2006
+| 10.2+ | Amended and Restated 2007 Equity Incentive Plan | 10-Q | 10.1 | 8/28/2024
+| 10.3+ | Amended and Restated 2007 Equity Incentive Plan - Non-Employee Director Deferred Restricted Stock Unit Grant Notice and Deferred Restricted Stock Unit Agreement (2016) | 10-K | 10.26 | 3/12/2015
+| 10.4+ | Amended and Restated 2007 Equity Incentive Plan - Non-Employee Director Restricted Stock Unit Grant Notice and Restricted Stock Unit Agreement (2016) | 10-K | 10.27 | 3/12/2015
+| 10.5+ | Amended and Restated 2007 Equity Incentive Plan - Global Performance-Based Restricted Stock Unit Grant Notice and Performance-Based Restricted Stock Unit Agreement (2019) | 8-K | 10.1 | 3/11/2019
+| 10.6+ | Amended and Restated 2007 Equity Incentive Plan – Global Restricted Stock Unit Grant Notice and Global Restricted Stock Unit Agreement (2021) | 10-Q | 10.2 | 5/26/2021
+| 10.7+ | Amended and Restated 2007 Equity Incentive Plan – Global Restricted Stock Unit Grant Notice and Global Restricted Stock Unit Agreement (2022) | 10-K | 10.16 | 3/18/2022
+| 10.8+ | Amended and Restated 2007 Equity Incentive Plan – Global Restricted Stock Unit Grant Notice and Global Restricted Stock Unit Agreement (2023) | 10-K | 10.14 | 2/24/2023
+| 10.9+ | Amended and Restated 2007 Equity Incentive Plan – Global Restricted Stock Unit Grant Notice and Global Restricted Stock Unit Agreement (2024) (version 1) | 10-Q | 10.2 | 5/29/2024
 82
-10.10+
-Amended and Restated 2007 Equity Incentive Plan - Global Performance-Based Restricted Stock Unit Grant Notice and Performance-Based Restricted Stock Unit Agreement (2024)
-| 10-Q | 10.3 | 5/29/2024
-10.11+
-Amended and Restated 2007 Equity Incentive Plan – Global Restricted Stock Unit Grant Notice and Global Restricted Stock Unit Agreement (2024) (version 2)
-| 10-Q | 10.1 | 11/20/2024
-10.12+
-Amended and Restated 2007 Equity Incentive Plan - Global Restricted Stock Unit Grant Notice and Global Restricted Stock Unit Agreement (2025)
-| 10-K | 10.13 | 2/26/2025
-10.13+
-Amended and Restated 2007 Equity Incentive Plan - Global Performance-Based Restricted Stock Unit Grant Notice and Performance-Based Restricted Stock Unit Agreement (2025)
-| 10-K | 10.14 | 2/26/2025
-10.14+
-Amended and Restated 2007 Equity Incentive Plan - Non-Employee Director Deferred Restricted Stock Unit Grant Notice and Deferred Restricted Stock Unit Agreement (2025)
-| 10-Q | 10.1 | 8/27/2025
-10.15+
-Amended and Restated 2007 Equity Incentive Plan - Non-Employee Director Restricted Stock Unit Grant Notice and Restricted Stock Unit Agreement (2025)
-| 10-Q | 10.2 | 8/27/2025
-10.16+
-Amended and Restated 2012 Employee Stock Purchase Plan
-| 10-K | 10.15 | 2/26/2025
-10.17+
-Variable Compensation Plan - Fiscal Year 2025
-| 8-K | 10.1 | 3/14/2024
-10.18+
-Variable Compensation Plan - Fiscal Year 2026
-| 8-K | 10.1 | 3/7/2025
-| 19.1* |
-NVIDIA Corporation Insider Trading Policy
-| 21.1* |
-Subsidiaries of Registrant
-| 23.1* |
-Consent of PricewaterhouseCoopers LLP
-| 24.1* |
-Power of Attorney (included in signature page)
-| 31.1* |
-Certification of Chief Executive Officer as required by Rule 13a-14(a) of the Securities Exchange Act of 1934
-| 31.2* |
-Certification of Chief Financial Officer as required by Rule 13a-14(a) of the Securities Exchange Act of 1934
-| 32.1#* |
-Certification of Chief Executive Officer as required by Rule 13a-14(b) of the Securities Exchange Act of 1934
-| 32.2#* |
-Certification of Chief Financial Officer as required by Rule 13a-14(b) of the Securities Exchange Act of 1934
-| 97.1+ |
-Compensation Recovery Policy, as amended and restated November 30, 2023
-| 10-K | 97.1 | 2/21/2024
+| 10.10+ | Amended and Restated 2007 Equity Incentive Plan - Global Performance-Based Restricted Stock Unit Grant Notice and Performance-Based Restricted Stock Unit Agreement (2024) | 10-Q | 10.3 | 5/29/2024
+| 10.11+ | Amended and Restated 2007 Equity Incentive Plan – Global Restricted Stock Unit Grant Notice and Global Restricted Stock Unit Agreement (2024) (version 2) | 10-Q | 10.1 | 11/20/2024
+| 10.12+ | Amended and Restated 2007 Equity Incentive Plan - Global Restricted Stock Unit Grant Notice and Global Restricted Stock Unit Agreement (2025) | 10-K | 10.13 | 2/26/2025
+| 10.13+ | Amended and Restated 2007 Equity Incentive Plan - Global Performance-Based Restricted Stock Unit Grant Notice and Performance-Based Restricted Stock Unit Agreement (2025) | 10-K | 10.14 | 2/26/2025
+| 10.14+ | Amended and Restated 2007 Equity Incentive Plan - Non-Employee Director Deferred Restricted Stock Unit Grant Notice and Deferred Restricted Stock Unit Agreement (2025) | 10-Q | 10.1 | 8/27/2025
+| 10.15+ | Amended and Restated 2007 Equity Incentive Plan - Non-Employee Director Restricted Stock Unit Grant Notice and Restricted Stock Unit Agreement (2025) | 10-Q | 10.2 | 8/27/2025
+| 10.16+ | Amended and Restated 2012 Employee Stock Purchase Plan | 10-K | 10.15 | 2/26/2025
+| 10.17+ | Variable Compensation Plan - Fiscal Year 2025 | 8-K | 10.1 | 3/14/2024
+| 10.18+ | Variable Compensation Plan - Fiscal Year 2026 | 8-K | 10.1 | 3/7/2025
+| 19.1* | NVIDIA Corporation Insider Trading Policy
+| 21.1* | Subsidiaries of Registrant
+| 23.1* | Consent of PricewaterhouseCoopers LLP
+| 24.1* | Power of Attorney (included in signature page)
+| 31.1* | Certification of Chief Executive Officer as required by Rule 13a-14(a) of the Securities Exchange Act of 1934
+| 31.2* | Certification of Chief Financial Officer as required by Rule 13a-14(a) of the Securities Exchange Act of 1934
+| 32.1#* | Certification of Chief Executive Officer as required by Rule 13a-14(b) of the Securities Exchange Act of 1934
+| 32.2#* | Certification of Chief Financial Officer as required by Rule 13a-14(b) of the Securities Exchange Act of 1934
+| 97.1+ | Compensation Recovery Policy, as amended and restated November 30, 2023 | 10-K | 97.1 | 2/21/2024
 | 101.INS* | XBRL Instance Document
 | 101.SCH* | XBRL Taxonomy Extension Schema Document
 | 101.CAL* | XBRL Taxonomy Extension Calculation Linkbase Document
@@ -2108,22 +1831,18 @@ KNOW ALL PERSONS BY THESE PRESENTS, that each person whose signature appears bel
 84
 Pursuant to the requirements of the Securities Exchange Act of 1934, this report has been signed below by the following persons on behalf of the registrant and in the capacities and on the dates indicated.
 | Signature | Title | Date
-| /s/ JEN-HSUN HUANG | President, Chief Executive Officer and Director
-(Principal Executive Officer) | February 25, 2026
+| /s/ JEN-HSUN HUANG | President, Chief Executive Officer and Director (Principal Executive Officer) | February 25, 2026
 | Jen-Hsun Huang |
-| /s/ COLETTE M. KRESS | Executive Vice President and Chief Financial Officer
-(Principal Financial Officer) | February 25, 2026
+| /s/ COLETTE M. KRESS | Executive Vice President and Chief Financial Officer (Principal Financial Officer) | February 25, 2026
 | Colette M. Kress |
-| /s/ DONALD ROBERTSON | Vice President and Chief Accounting Officer
-(Principal Accounting Officer) | February 25, 2026
+| /s/ DONALD ROBERTSON | Vice President and Chief Accounting Officer (Principal Accounting Officer) | February 25, 2026
 | Donald Robertson |
-/s/ TENCH COXE
-| Director | February 25, 2026
+| /s/ TENCH COXE | Director | February 25, 2026
 | Tench Coxe |
 | /s/ JOHN O. DABIRI | Director | February 25, 2026
 | John O. Dabiri |
 | /s/ DAWN HUDSON | Director | February 25, 2026
-Dawn Hudson
+| Dawn Hudson |
 | /s/ HARVEY C. JONES | Director | February 25, 2026
 | Harvey C. Jones |
 | /s/ MELISSA B. LORA | Director | February 25, 2026
