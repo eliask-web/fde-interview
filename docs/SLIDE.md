@@ -1,29 +1,29 @@
-# SEC filings assistant
+# Company briefing assistant
 
 ## Problem
 
-Analysts read 100-plus-page 10-Ks and 10-Qs by hand to answer simple questions. It's slow, hard to check, and easy to get wrong.
+Analysts read 100-plus-page 10-Ks and 10-Qs by hand to brief on a company. It takes hours, is hard to check, and is easy to get wrong.
 
 ## Flow
 
-**Gather → Check → Summarize → Show**
+**Fetch → Validate → Summarize → Render**, one LangGraph graph:
 
-1. **Gather:** The action agent decides to call the SEC fetch tool for the ticker.
-2. **Check:** The ticker is validated against the covered set (AAPL, NVDA, JPM), and failed fetches are caught.
-3. **Summarize:** The retriever agent pulls the relevant passages from Chroma, and Claude answers from those passages only.
-4. **Show:** The reviewer agent checks the answer against its sources. The Streamlit chat shows the answer with the filings it came from.
+1. **Fetch:** Claude decides to call `get_stock_quote` (yfinance) and `get_recent_filings` (SEC EDGAR), with retries.
+2. **Validate:** Plain Python checks the data. A failure stops the run.
+3. **Summarize:** Claude writes the briefing from the filings only, with citations.
+4. **Render:** Streamlit shows the status strip, the quote, the briefing, and a follow-up chat.
 
 ## Why it's trustworthy
 
-- Every answer cites the filing it came from.
-- When the filings don't answer the question, it says so instead of guessing.
-- It refuses buy-or-sell advice, off-topic requests, and instructions hidden in documents.
-- Low-confidence answers come with a note to check with a person.
-- DeepEval scores faithfulness and relevancy on a golden set, and LangSmith traces every run.
+- Nothing is summarized until validation passes.
+- Every briefing and chat answer cites its filing. If the answer isn't there, it says "not in the filings."
+- No buy, sell or hold advice. Instructions hidden in filing text are ignored.
+- After 3 failed fetches it stops and flags `needs_human` instead of guessing.
+- Every run leaves files in `out/<TICKER>/`, and LangSmith traces each step.
 
 ## Next steps
 
 - More tickers, plus 8-Ks and earnings call transcripts.
 - Side-by-side comparisons across companies and years.
-- Long-term memory for each analyst's watchlist.
+- A scored evaluation on the golden set of 10 questions (already written).
 - Scheduled refresh when new filings land.
