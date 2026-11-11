@@ -12,6 +12,14 @@ def _roots(tmp_path, monkeypatch):
     monkeypatch.setattr(paths, "DATA_ROOT", tmp_path / "data")
 
 
+@pytest.fixture(autouse=True)
+def _stub_fetch(monkeypatch):
+    # The real fetch needs the network and a model; stub it for skeleton wiring tests.
+    monkeypatch.setattr(
+        graph.fetch_mod, "fetch", lambda t: {"ok": True, "detail": "stub", "paths": []}
+    )
+
+
 def test_happy_path():
     r = graph.run_pipeline("aapl")
     assert set(r) == {"status", "steps", "paths"}
