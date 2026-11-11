@@ -1,6 +1,6 @@
 """Download the latest 10-K and 10-Q for each covered ticker from SEC EDGAR.
 
-Writes plain-text filings to data/filings/ plus a manifest.json describing them.
+Writes plain-text filings to data/<TICKER>/<FORM>_<DATE>.txt plus data/manifest.json.
 The SEC requires a descriptive User-Agent, read from SEC_USER_AGENT in .env
 (for example "Your Name your.email@example.com"). The value is never printed.
 
@@ -32,7 +32,7 @@ TICKERS: dict[str, int] = {
     "MSFT": 789019,
 }
 FORMS = ("10-K", "10-Q")
-OUT_DIR = Path(__file__).resolve().parent.parent / "data" / "filings"
+OUT_DIR = Path(__file__).resolve().parent.parent / "data"
 REQUEST_PAUSE_SECONDS = 0.2  # The SEC allows at most 10 requests per second.
 
 
@@ -129,11 +129,11 @@ def clean_text(text: str) -> str:
 
 
 def reclean_saved() -> int:
-    """Re-apply clean_text to filings already in data/filings/ without downloading."""
-    for path in sorted(OUT_DIR.glob("*.txt")):
+    """Re-apply clean_text to filings already in data/<TICKER>/ without downloading."""
+    for path in sorted(OUT_DIR.glob("*/*.txt")):
         header, _, body = path.read_text(encoding="utf-8").partition("\n\n")
         path.write_text(header + "\n\n" + clean_text(body), encoding="utf-8")
-        print(f"Cleaned {path.name}")
+        print(f"Cleaned {path.relative_to(OUT_DIR)}")
     return 0
 
 
@@ -182,7 +182,8 @@ def main(argv: list[str]) -> int:
             filings = latest_filings(TICKERS[ticker], user_agent)
             for filing in filings:
                 text = html_to_text(get(filing["url"], user_agent).decode("utf-8", "replace"))
-                name = f"{ticker}_{filing['form']}_{filing['filing_date']}.txt"
+                name = f"{ticker}/{filing['form']}_{filing['filing_date']}.txt"
+                (OUT_DIR / ticker).mkdir(exist_ok=True)
                 title = f"{filing['company']} {filing['form']} for period ending {filing['period']}"
                 header = (
                     f"Title: {title}\nTicker: {ticker}\nForm: {filing['form']}\n"
