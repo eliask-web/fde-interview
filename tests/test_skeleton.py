@@ -13,6 +13,7 @@ def _roots(tmp_path, monkeypatch):
     # validate and summarize are real now (issue #5); keep these graph tests on stubs.
     monkeypatch.setattr(graph.validate_mod, "validate", lambda t: {"ok": True, "detail": "stub"})
     monkeypatch.setattr(graph.summarize_mod, "summarize", lambda t: {"ok": True, "detail": "stub"})
+    monkeypatch.setattr(app.render, "render", lambda t: {"ok": True, "detail": "render stub"})
 
 
 def test_happy_path():
