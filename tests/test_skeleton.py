@@ -10,6 +10,7 @@ import app.render
 def _roots(tmp_path, monkeypatch):
     monkeypatch.setattr(paths, "OUT_ROOT", tmp_path / "out")
     monkeypatch.setattr(paths, "DATA_ROOT", tmp_path / "data")
+    monkeypatch.setattr(app.render, "render", lambda t: {"ok": True, "detail": "render stub"})
 
 
 def test_happy_path():
