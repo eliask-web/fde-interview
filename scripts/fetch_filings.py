@@ -7,6 +7,7 @@ The SEC requires a descriptive User-Agent, read from SEC_USER_AGENT in .env
 Usage:
     python scripts/fetch_filings.py            # all covered tickers
     python scripts/fetch_filings.py AAPL JPM   # a subset
+    python scripts/fetch_filings.py --clean-only  # re-clean saved files, no download
 """
 
 from __future__ import annotations
@@ -102,7 +103,23 @@ def html_to_text(html: str) -> str:
     text = "".join(parser.parts).replace("\xa0", " ")
     text = re.sub(r"[ \t]+", " ", text)
     text = re.sub(r" *\n *", "\n", text)
-    return re.sub(r"\n{3,}", "\n\n", text).strip()
+    return clean_text(text)
+
+
+def clean_text(text: str) -> str:
+    """Drop empty table rows and collapse runs of empty table cells."""
+    text = re.sub(r"\|(?: *\|)+", "|", text)
+    lines = [line for line in text.split("\n") if line.strip(" |")]
+    return re.sub(r"\n{3,}", "\n\n", "\n".join(lines)).strip()
+
+
+def reclean_saved() -> int:
+    """Re-apply clean_text to filings already in data/filings/ without downloading."""
+    for path in sorted(OUT_DIR.glob("*.txt")):
+        header, _, body = path.read_text(encoding="utf-8").partition("\n\n")
+        path.write_text(header + "\n\n" + clean_text(body), encoding="utf-8")
+        print(f"Cleaned {path.name}")
+    return 0
 
 
 def latest_filings(cik: int, user_agent: str) -> list[dict]:
@@ -130,6 +147,8 @@ def latest_filings(cik: int, user_agent: str) -> list[dict]:
 
 
 def main(argv: list[str]) -> int:
+    if argv == ["--clean-only"]:
+        return reclean_saved()
     load_dotenv()
     user_agent = os.getenv("SEC_USER_AGENT", "").strip()
     if not user_agent:
