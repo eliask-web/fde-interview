@@ -181,8 +181,13 @@ def main(argv: list[str]) -> int:
             print(f"{ticker}: {exc}")
             return 1
 
-    (OUT_DIR / "manifest.json").write_text(json.dumps(manifest, indent=2) + "\n")
-    print(f"Wrote {len(manifest)} filings to {OUT_DIR}")
+    # Keep manifest entries for tickers not fetched in this run.
+    manifest_path = OUT_DIR / "manifest.json"
+    if manifest_path.exists():
+        kept = [e for e in json.loads(manifest_path.read_text()) if e["ticker"] not in tickers]
+        manifest = kept + manifest
+    manifest_path.write_text(json.dumps(manifest, indent=2) + "\n")
+    print(f"Wrote {len(manifest)} filings to the manifest in {OUT_DIR}")
     return 0
 
 
