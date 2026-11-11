@@ -123,3 +123,13 @@ def test_streamlit_app_runs():
     at = AppTest.from_file(str(paths.REPO_ROOT / "app" / "main.py"), default_timeout=30).run()
     assert not at.exception
     assert [t.label for t in at.tabs] == ["Dashboard", "Before/After"]
+
+
+def test_get_llm_falls_back_to_direct_anthropic(monkeypatch):
+    monkeypatch.setattr(llm, "load_dotenv", lambda: None)
+    monkeypatch.delenv("PORTKEY_API_KEY", raising=False)
+    monkeypatch.delenv("PORTKEY_VIRTUAL_KEY", raising=False)
+    monkeypatch.setenv("ANTHROPIC_API_KEY", "direct-key")
+    m = llm.get_llm()
+    assert "portkey" not in m.anthropic_api_url
+    assert m.anthropic_api_key.get_secret_value() == "direct-key"
