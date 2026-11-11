@@ -1,0 +1,11 @@
+.env
+.venv/
+venv/
+__pycache__/
+*.pyc
+chroma_db/
+.streamlit/secrets.toml
+.DS_Store
+.ipynb_checkpoints/
+.claude/settings.local.json
+.claude/BASELINE.md

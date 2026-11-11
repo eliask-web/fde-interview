@@ -1,0 +1,15 @@
+langgraph
+langchain
+langchain-anthropic
+langchain-openai
+langchain-chroma
+langchain-text-splitters
+chromadb
+langsmith
+streamlit
+deepeval
+pandas
+openpyxl
+python-dotenv
+pydantic
+pytest
