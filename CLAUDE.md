@@ -15,7 +15,7 @@ The prototype is a quick MVP: a company briefing built from a stock quote and re
 - **Filings:** SEC EDGAR submissions API (`https://data.sec.gov/submissions/CIK##########.json`), always sent with the `SEC_USER_AGENT` header. Network calls retry with `tenacity` (3 attempts, exponential backoff). A block or error page counts as a failure. After 3 failures the run status is `needs_human`.
 - **Tool calling:** Real model tool calls through `bind_tools` in the fetch node (`get_stock_quote`, `get_recent_filings`). The model decides which tool to call and with which inputs. The app never calls a tool directly to fake a tool call.
 - **Validation:** Plain Python, no LLM. Writes `validation.json`. Summarize runs only when validation passes.
-- **Outputs:** Every run writes to `out/<TICKER>/` (gitignored): `quote.csv`, `filings.csv`, `validation.json`, `briefing.md`, `briefing.json`.
+- **Outputs:** Every run writes to `out/<TICKER>/` (gitignored): `quote.csv`, `filings.csv`, `sections/*.md` (filing sections cut from the corpus), `validation.json`, `briefing.md`, `briefing.json`.
 - **Front end:** Streamlit, `app/main.py`. Dashboard tab: ticker input, "Brief me" button, linkable at `?ticker=`, a status strip (Fetch, Validate, Summarize, Render), the quote card, the briefing, and a follow-up chat below it. Before/After tab: renders `docs/BEFORE_AFTER.md` for a non-technical reader.
 - **Tracing:** LangSmith, turned on through environment variables only (optional).
 - **Removed from the original template:** Chroma, OpenAI embeddings, `rag/`, the LangGraph checkpointer, DeepEval and `eval/`, Railway, static HTML output.
@@ -25,9 +25,9 @@ The prototype is a quick MVP: a company briefing built from a stock quote and re
 
 | Path | What lives there |
 |---|---|
-| `agents/` | `graph.py` (the four-node graph), `llm.py`, `fetch.py`, `validate.py`, `summarize.py`. Entry point `agents/graph.py` exposes `run_pipeline(ticker: str) -> dict` returning `{"status", "steps", "paths"}` (`steps` holds one result per node, `paths` the files written) and `answer(question: str, ticker: str, history: list) -> dict` returning `{"answer", "sources"}` |
+| `agents/` | `graph.py` (the four-node graph), `llm.py`, `paths.py`, `fetch.py`, `sections.py`, `validate.py`, `summarize.py`. Entry point `agents/graph.py` exposes `run_pipeline(ticker: str) -> dict` returning `{"status", "steps", "paths"}` (`steps` holds one result per node, `paths` the files written) and `answer(question: str, ticker: str, history: list) -> dict` returning `{"answer", "sources"}` |
 | `app/` | Streamlit app `app/main.py`, and `app/render.py` (briefing.md to briefing.json) |
-| `data/` | Input data: filing section text per ticker in `data/<TICKER>/`. Read only |
+| `data/` | Filing corpus: whole filings as `data/filings/<TICKER>_<FORM>_<FILED>.txt` plus `data/filings/manifest.json`. Read only. Sections are cut into `out/<TICKER>/sections/` at run time |
 | `docs/` | Project brief, rubric checklist, kickoff prompts, `BEFORE_AFTER.md` |
 | `out/` | Generated run files per ticker. Gitignored |
 | `scripts/` | Preflight and helper scripts |
