@@ -11,11 +11,10 @@ import os
 import sys
 
 PACKAGES = [
-    "langgraph", "langchain", "langchain_anthropic", "langchain_openai",
-    "langchain_chroma", "chromadb", "langsmith", "streamlit",
-    "deepeval", "pandas", "dotenv",
+    "langgraph", "langchain", "langchain_anthropic", "langsmith", "streamlit",
+    "pandas", "dotenv", "yfinance", "tenacity", "requests",
 ]
-KEYS = ["ANTHROPIC_API_KEY", "OPENAI_API_KEY", "LANGSMITH_API_KEY"]
+KEYS = ["PORTKEY_API_KEY", "PORTKEY_VIRTUAL_KEY", "SEC_USER_AGENT", "LANGSMITH_API_KEY"]
 
 
 def check(label, ok, detail=""):
@@ -44,22 +43,14 @@ def main():
     for key in KEYS:
         results.append(check(f"{key} is set", bool(os.getenv(key))))
 
-    if os.getenv("ANTHROPIC_API_KEY"):
+    if os.getenv("PORTKEY_API_KEY") and os.getenv("PORTKEY_VIRTUAL_KEY"):
         try:
-            from langchain_anthropic import ChatAnthropic
-            model = os.getenv("ANTHROPIC_MODEL", "claude-sonnet-5-5")
-            reply = ChatAnthropic(model=model, max_tokens=10).invoke("Reply with OK.")
-            results.append(check(f"Claude answers ({model})", bool(reply.content)))
+            sys.path.insert(0, os.path.dirname(os.path.dirname(os.path.abspath(__file__))))
+            from agents.llm import get_llm
+            reply = get_llm().invoke("Reply with OK.")
+            results.append(check("Claude answers (via Portkey)", bool(reply.content)))
         except Exception as e:
             results.append(check("Claude answers", False, str(e)[:120]))
-
-    if os.getenv("OPENAI_API_KEY"):
-        try:
-            from langchain_openai import OpenAIEmbeddings
-            vec = OpenAIEmbeddings(model="text-embedding-3-small").embed_query("test")
-            results.append(check("OpenAI embeddings answer", len(vec) > 0, f"{len(vec)} dimensions"))
-        except Exception as e:
-            results.append(check("OpenAI embeddings answer", False, str(e)[:120]))
 
     if os.getenv("LANGSMITH_API_KEY"):
         try:
